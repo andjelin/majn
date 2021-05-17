@@ -435,12 +435,16 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/26685
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27660
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO
 http://wrlstr.dvrdns.org:18066/live?channelId=90&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO.
+http://simpsongroups.com:7070/live.ts?channelId=350&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="hbo2" tvg-logo="http://54.38.54.93/example/logo/HBO%202%20HD.png" group-title="Nasi Kanali",HBO 2
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17920
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="hbo2" tvg-logo="http://54.38.54.93/example/logo/HBO%202%20HD.png" group-title="Nasi Kanali",HBO 2.
+http://simpsongroups.com:7070/live.ts?channelId=351&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="hbo3" tvg-logo="http://54.38.54.93/example/logo/HBO%203%20HD.png" group-title="Nasi Kanali",HBO 3
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17918
 #EXTINF:-1 tvg-id="hbo3" tvg-name="hbo3" tvg-logo="" group-title="Nasi Kanali",HBO 3 [Rezerva]
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13806
+http://simpsongroups.com:7070/live.ts?channelId=352&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV" tvg-name="cinestartv" tvg-logo="http://54.38.54.93/example/logo/CineStar%20TV.png" group-title="Nasi Kanali",CineStar TV
 http://wrlstr.dvrdns.org:18066/live?channelId=265&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinestartv" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2 (mtel)
@@ -530,15 +534,15 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/13464
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="discoverysci" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Science.png" group-title="Nasi Kanali",Discovery Science
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2931
 #EXTINF:-1 tvg-id="discoverysci" tvg-name="discoverysci" group-title="Nasi Kanali",Discovery Science
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4675
+http://simpsongroups.com:7070/live.ts?channelId=403&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="natgeors" tvg-logo="http://54.38.54.93/example/logo/National%20Geographic%20HD.png" group-title="Nasi Kanali",National Geographic SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28070
 #EXTINF:-1 tvg-id="natgeors" tvg-name="natgeors" tvg-logo="" group-title="Nasi Kanali",National Geographic srb
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/246
-#EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo" tvg-logo="" group-title="Nasi Kanali",National Geographic HRV
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1472
+#EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo" tvg-logo="" group-title="Nasi Kanali",National Geographic 
+http://simpsongroups.com:7070/live.ts?channelId=397&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="davinci" tvg-logo="http://54.38.54.93/example/logo/Da%20Vinci%20TV.png" group-title="Nasi Kanali",DaVinchi Learning.
-http://mndreamvspp.for-better.biz:5436/NABnMH87Qv/1m315LpRVh/10831
+http://simpsongroups.com:7070/live.ts?channelId=10922&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="Viasat Explore" tvg-name="viasatexp" tvg-logo="http://54.38.54.93/example/logo/Viasat%20Explore.png" group-title="Nasi Kanali",Viasat Explore
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28071
 #EXTINF:-1 tvg-id="Viasat Nature" tvg-name="viasatnat" tvg-logo="http://54.38.54.93/example/logo/Viasat%20Nature.png" group-title="Nasi Kanali",Viasat Nautre
@@ -588,7 +592,7 @@ http://wrlstr.dvrdns.org:18066/live?channelId=420&uid=318&deviceUser=brankonemac
 #EXTINF:-1 tvg-id="Food Network" tvg-name="foodnetwork" tvg-logo="https://p.kindpng.com/picc/s/245-2453753_food-network-logo-white-hd-png-download.png" group-title="Nasi Kanali",Food Network
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17267
 #EXTINF:-1 tvg-id="woman" tvg-name="woman" tvg-link="" tvg-logo="https://epg.serbianforum.org/logo_znaci/Woman.png" group-title="Nasi Kanali" ,Woman TV (mtel)
-http://mndreamvspp.for-better.biz:5436/NABnMH87Qv/1m315LpRVh/11273
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2999
 #EXTINF:-1 tvg-id="Lov i Ribolov" tvg-name="loviribolov" tvg-logo="http://54.38.54.93/example/logo/Lov%20i%20Ribolov.png" group-title="Nasi Kanali",Lov i Ribolov
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3196
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="travel" tvg-logo="http://54.38.54.93/example/logo/Travel%20Channel.png" group-title="Nasi Kanali",Travel Channel
@@ -597,16 +601,8 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17865
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1101
 #EXTINF:-1 tvg-id="DOKU_.TV" tvg-name="DOKU .TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,DOKU .TV
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21440
-#EXTINF:-1 tvg-id="RT_DOCU_HD" tvg-name="RT DOCU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Nasi Kanali" ,RT DOCU HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20277
-#EXTINF:-1 tvg-id="WOMAN_HD" tvg-name="WOMAN HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,WOMAN HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20274
-#EXTINF:-1 tvg-id="WOMAN_TV" tvg-name="WOMAN TV" tvg-logo="https://epg.serbianforum.org/logo_znaci/Woman.png" group-title="Nasi Kanali" ,WOMAN TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2999
 #EXTINF:-1 tvg-id="" tvg-name="DR. FIT HD" tvg-logo="https://i2.wp.com/hunterdonpilates.com/wp-content/uploads/2016/09/dr-fit-logo.jpg?fit=330%2C250" group-title="Nasi Kanali" ,DR. FIT HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20289
-#EXTINF:-1 tvg-id="TLC." tvg-name="TLC." tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tlc_300-june2016.png" group-title="Nasi Kanali" ,TLC.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22958
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/tlc.png?resize=219%2C219" group-title="Nasi Kanali" ,TLC
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/242
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2015/03/e_entertainment.jpg" group-title="Nasi Kanali" ,E!
@@ -625,14 +621,8 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20953
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21437
 #EXTINF:-1 tvg-id="FASHION_BOX" tvg-name="FASHION BOX" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/09/AppLogos250x250-FashionBox.png" group-title="Nasi Kanali" ,FASHION BOX
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20954
-#EXTINF:-1 tvg-id="EURO_NEWS_HD" tvg-name="EURO NEWS HD" tvg-logo="https://res.cloudinary.com/brand42/image/upload/v1467907304/nzkaj5bm7raud6ugqiye.svg" group-title="Nasi Kanali" ,EURO NEWS HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21869
 #EXTINF:-1 tvg-id="RTR_PLANETA" tvg-name="RTR PLANETA" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PLANETA.png" group-title="Nasi Kanali" ,RTR PLANETA
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21867
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/CNN-International-Logo.svg/revision/latest/scale-to-width-down/340?cb=20091201100403" group-title="Nasi Kanali" ,CNN
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21868
-#EXTINF:-1 tvg-id="DW_TV" tvg-name="DW TV" tvg-logo="https://www.kccu.org/sites/kccu/files/styles/medium/public/201412/DWF_logo_medium_0.jpg" group-title="Nasi Kanali" ,DW TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23065
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL HR" tvg-logo="http://54.38.54.93/example/logo/RTL.png" group-title="Nasi Kanali",RTL HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1461
 #EXTINF:-1 tvg-id="RTL 2" tvg-name="rtl2" tvg-logo="http://54.38.54.93/example/logo/RTL%202.png" group-title="Nasi Kanali",RTL 2
@@ -711,44 +701,6 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/23845
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/23846
 #EXTINF:-1 tvg-id="NOVA TV" tvg-name="novatv" tvg-logo="http://54.38.54.93/example/logo/Nova%20TV%20HD.png" group-title="Nasi Kanali",Nova tv HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Dobra TV mreža -------" tvg-logo="" group-title="Nasi Kanali",------- Dobra TV mreža -------
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/683512
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Balkanska HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVBALKANSKA.png" group-title="Nasi Kanali",Dobra Balkanska HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Islamska BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVISLAMSKA.png" group-title="Nasi Kanali",Dobra Islamska BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/682876
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Bosnjacka BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVBOSNJACKA.png" group-title="Nasi Kanali",Dobra Bosnjacka BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Cinema HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/GOODTVINTERNATIONAL.png" group-title="Nasi Kanali",Dobra Cinema HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654825
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Exclusive HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVEXCLUSIVE.png" group-title="Nasi Kanali",Dobra Exclusive HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Muzicka BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVMUZICKA.png" group-title="Nasi Kanali",Dobra Muzicka BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Nasheed HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/GOODTVINTERNATIONAL.png" group-title="Nasi Kanali",Dobra Nasheed HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra S-Makedonija HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/GOODTVINTERNATIONAL.png" group-title="Nasi Kanali",Dobra S-Makedonija HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654815
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Sportska HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVSPORTSKA.png" group-title="Nasi Kanali",Dobra Sportska HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Srpska HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVSRPSKA.png" group-title="Nasi Kanali",Dobra Srpska HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra World Music HD BiH" tvg-logo="http://proxiapp.me/logo/dobratv/DOBRATVWORLDMUSIC.png" group-title="Nasi Kanali",Dobra World Music HD BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/654812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Sevdah BiH" tvg-logo="" group-title="Nasi Kanali",Dobra Sevdah BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/663521
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Svadba BiH" tvg-logo="" group-title="Nasi Kanali",Dobra Svadba BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/663522
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dobra Travel BiH" tvg-logo="" group-title="Nasi Kanali",Dobra Travel BiH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/663523
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Religiozni -------" tvg-logo="" group-title="Nasi Kanali",------- Religiozni -------
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/683513
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIR TV BIH" tvg-logo="" group-title="Nasi Kanali",BIR TV BIH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/638022
-#EXTINF:-1 tvg-id="TV Igman HD" tvg-name="MTV Igman HD BIH" tvg-logo="http://54.38.54.93/example/logo/MTV%20Igman.png" group-title="Nasi Kanali",MTV Igman HD BIH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/5038
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekka TV BIH" tvg-logo="" group-title="Nasi Kanali",Mekka TV BIH
-http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/9361
 #EXTINF:-1 tvg-id="Pink Koncert" tvg-name="pinkkoncert" tvg-logo="http://54.38.54.93/example/logo/Pink%20Koncert.png" group-title="Nasi Kanali",Pink Koncert
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28049
 #EXTINF:-1 tvg-id="Pink&Roll" tvg-name="pinknroll" tvg-logo="http://54.38.54.93/example/logo/Pink&Roll.png" group-title="Nasi Kanali",Pink n roll
@@ -941,7 +893,6 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/16816
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1475
 #EXTINF:-1 tvg-id="Jugoton TV" tvg-name="jugoton" tvg-logo="http://54.38.54.93/example/logo/Jugoton.png" group-title="Nasi Kanali",Jugoton
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/6561
-
 #EXTINF:-1 tvg-id="CMC" tvg-name="CMC TV HR" tvg-logo="http://54.38.54.93/example/logo/CMC%20TV.png" group-title="Nasi Kanali",CMC TV HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3171
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sehara BA" tvg-logo="" group-title="Nasi Kanali",TV Sehara BA
@@ -996,8 +947,6 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27818
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27822
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Partizan TV RS" tvg-logo="" group-title="Nasi Kanali",Partizan TV RS
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/16401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD SI" tvg-logo="" group-title="Nasi Kanali",HBO HD SI
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28084
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sevdah TV BA" tvg-logo="" group-title="Nasi Kanali",Sevdah TV BA
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28066
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bosansko Posavska TV BA" tvg-logo="" group-title="Nasi Kanali",Bosansko Posavska TV BA
@@ -1062,44 +1011,18 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/32687
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19614
 #EXTINF:-1 tvg-id="planet" tvg-name="planet" tvg-logo="" group-title="Nasi Kanali",planet
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Brio SI" tvg-logo="" group-title="Nasi Kanali",Pop Brio SI
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 1 SI" tvg-logo="" group-title="Nasi Kanali",TV Slovenija 1 SI
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 2 SI" tvg-logo="" group-title="Nasi Kanali",TV Slovenija 2 SI
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 3 SI" tvg-logo="" group-title="Nasi Kanali",TV Slovenija 3 SI
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19613
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Kino SI" tvg-logo="" group-title="Nasi Kanali",Pop Kino SI
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACIOUS 1 HD" tvg-logo="" group-title="Nasi Kanali",CINEMACIOUS 1 HD
-http://bitkananeretvi.net:8000/live.ts?channelId=21675&uid=34972&deviceMac=00:1A:79:40:9C:E9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACIOUS 2 HD" tvg-logo="" group-title="Nasi Kanali",CINEMACIOUS 2 HD
-http://bitkananeretvi.net:8000/live.ts?channelId=21676&uid=34972&deviceMac=00:1A:79:40:9C:E9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACIOUS 3 HD" tvg-logo="" group-title="Nasi Kanali",CINEMACIOUS 3 HD
-http://bitkananeretvi.net:8000/live.ts?channelId=21677&uid=34972&deviceMac=00:1A:79:40:9C:E9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://telehetz.dvrdns.org:12345/live?channelId=380&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://wrlstr.dvrdns.org:18066/live?channelId=381&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://telehetz.dvrdns.org:12345/live?channelId=382&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://wrlstr.dvrdns.org:18066/live?channelId=383&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://telehetz.dvrdns.org:12345/live?channelId=384&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://wrlstr.dvrdns.org:18066/live?channelId=385&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://telehetz.dvrdns.org:12345/live?channelId=386&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://tv.refundoiptv.iptv.uno:80/1W2BJkBWpB/WWnopD9vTO/13794
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOTAL CINEMA 1 HD" tvg-logo="" group-title="Nasi Kanali",TOTAL CINEMA 1 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4840
 #EXTINF:-1 tvg-id="TOTAL_CINEMA_2_HD" tvg-name="TOTAL CINEMA 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",TOTAL CINEMA 2 HD
 http://bitkananeretvi.net:8000/live.ts?channelId=21684&uid=34972&deviceMac=00:1A:79:40:9C:E9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOTAL CINEMA 3 HD" tvg-logo="" group-title="Nasi Kanali",TOTAL CINEMA 3 HD
 http://bitkananeretvi.net:8000/live.ts?channelId=21685&uid=34972&deviceMac=00:1A:79:57:3B:3
+#EXTINF:-1 tvg-id="NET_FILM_1_HD_(EXYU_FILM)" tvg-name="NET FILM 1 HD (EXYU FILM)" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NET FILM 1 HD (EXYU FILM)
+http://simpsongroups.com:7070/live.ts?channelId=28654&uid=19881&deviceMac=00:1A:79:70:46:09
+#EXTINF:-1 tvg-id="NET_FILM_2_HD_(EXYU_FILM)" tvg-name="NET FILM 2 HD (EXYU FILM)" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NET FILM 2 HD (EXYU FILM)
+http://simpsongroups.com:7070/live.ts?channelId=28655&uid=19881&deviceMac=00:1A:79:70:46:09
+#EXTINF:-1 tvg-id="NET_FILM_3_HD_(EXYU_FILM)" tvg-name="NET FILM 3 HD (EXYU FILM)" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NET FILM 3 HD (EXYU FILM)
+http://simpsongroups.com:7070/live.ts?channelId=28656&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select Premium FHD HR" tvg-logo="" group-title="Nasi Kanali",Max Select Premium FHD HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27821
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
@@ -1204,4 +1127,3 @@ http://telehetz.dvrdns.org:12345/live?channelId=449&uid=318&deviceUser=brankonem
 http://wrlstr.dvrdns.org:18066/live?channelId=421&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="422" tvg-name="388. BEIN Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd2.png" group-title="Nasi Kanali",388. BEIN Sport 2 HD
 http://telehetz.dvrdns.org:12345/live?channelId=422&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-
