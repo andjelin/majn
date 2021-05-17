@@ -447,18 +447,32 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17918
 http://simpsongroups.com:7070/live.ts?channelId=352&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV" tvg-name="cinestartv" tvg-logo="http://54.38.54.93/example/logo/CineStar%20TV.png" group-title="Nasi Kanali",CineStar TV
 http://wrlstr.dvrdns.org:18066/live?channelId=265&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinestartv" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2 (mtel)
+#EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="CINESTAR TV HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR TV HD
+http://simpsongroups.com:7070/live.ts?channelId=342&uid=19881&deviceMac=00:1A:79:70:46:09
+#EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinesta" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2 (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21018
+#EXTINF:-1 tvg-id="cinestartv2.hr" tvg-name="CINESTAR TV 2 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR TV 2 HD
+http://simpsongroups.com:7070/live.ts?channelId=15053&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-name="cinestaraction" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Action%20&%20Thriller.png" group-title="Nasi Kanali",CineStar Action & Thriller 
 http://telehetz.dvrdns.org:12345/live?channelId=335&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="cinestaractionan.rs" tvg-name="CINESTAR ACTION HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR ACTION HD
+http://simpsongroups.com:7070/live.ts?channelId=27778&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-name="cinestarfantasy" tvg-logo="http://54.38.54.93/example/logo/Cinestar%20Fantasy.png" group-title="Nasi Kanali",CineStar Fantasy
 http://telehetz.dvrdns.org:12345/live?channelId=563&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-name="CINESTAR FANTASY HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR FANTASY HD
+http://simpsongroups.com:7070/live.ts?channelId=344&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV Comedy" tvg-name="cinestarcomedy.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Nasi Kanali",CineStar Comedy (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3544
+#EXTINF:-1 tvg-id="cinsetarcomedy.rs" tvg-name="CINESTAR COMEDY HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR COMEDY HD
+http://simpsongroups.com:7070/live.ts?channelId=345&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="cinestarpremiere1" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Premiere%201%20HD.png" group-title="Nasi Kanali",CineStar Premiere 1
 http://telehetz.dvrdns.org:12345/live?channelId=317&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="CINESTAR PREMIERE 1 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR PREMIERE 1 HD
+http://simpsongroups.com:7070/live.ts?channelId=346&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="cinestarpremiere2" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Premiere%202%20HD.png" group-title="Nasi Kanali",CineStar Premiere 2
 http://telehetz.dvrdns.org:12345/live?channelId=318&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-name="CINESTAR PREMIERE 2 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="FILMSKI KANALI/MOVIES " ,CINESTAR PREMIERE 2 HD
+http://simpsongroups.com:7070/live.ts?channelId=347&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-name="cinemax1" tvg-logo="http://54.38.54.93/example/logo/Cinemax%201%20HD.png" group-title="Nasi Kanali",Cinemax 1
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/2022
 #EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="cinemax2" tvg-logo="http://54.38.54.93/example/logo/Cinemax%202%20HD.png" group-title="Nasi Kanali",Cinemax 2
@@ -498,7 +512,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1449
 #EXTINF:-1 tvg-id="FOX_CRIME_HD" tvg-name="FOX CRIME HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,FOX CRIME HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22948
 #EXTINF:-1 tvg-id="FOX_CRIME" tvg-name="FOX CRIME" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Nasi Kanali" ,FOX CRIME
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23000
+http://simpsongroups.com:7070/live.ts?channelId=359&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="Cinemania" tvg-name="cinemania" tvg-logo="http://54.38.54.93/example/logo/Cinemania.png" group-title="Nasi Kanali",Cinemania
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17270
 #EXTINF:-1 tvg-id="TV 1000" tvg-name="tv1000" tvg-logo="http://54.38.54.93/example/logo/TV%201000.png" group-title="Nasi Kanali",TV 1000
