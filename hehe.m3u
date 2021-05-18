@@ -67,14 +67,20 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3186
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27524
 #EXTINF:-1 tvg-id="SK1 RS HD" tvg-name="sk1.rs" tvg-logo="http://54.38.54.93/example/logo/SK1HD.png" group-title="Nasi Kanali",Sport Klub 1 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13832
+#EXTINF:-1 tvg-id="119" tvg-name="271. Sport klub 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="Nasi Kanali",271. Sport klub 1 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1440
 #EXTINF:-1 tvg-id="SK2 RS HD" tvg-name="sk2.rs" tvg-logo="http://54.38.54.93/example/logo/SK2HD.png" group-title="Nasi Kanali",Sport Klub 2 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17257
+#EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="Nasi Kanali",273. Sport klub 2 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk2.rs" tvg-name="sk2.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 2 SRB (Rezerva)
 http://wrlstr.dvrdns.org:18066/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="SK3 RS HD" tvg-name="sk3.rs" tvg-logo="http://54.38.54.93/example/logo/SK3HD.png" group-title="Nasi Kanali",Sport Klub 3 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17258
+#EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="Nasi Kanali",275. Sport klub 3 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk3.rs" tvg-name="sk3.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 3 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1442
 #EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="sk4.rs" tvg-logo="http://54.38.54.93/example/logo/SK4.png" group-title="Nasi Kanali",Sport Klub 4 SRB
@@ -1176,7 +1182,7 @@ http://wrlstr.dvrdns.org:18066/live?channelId=110&uid=318&deviceUser=brankonemac
 #EXTINF:-1 tvg-id="111" tvg-name="267. Arena Sport 4 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="Nasi Kanali",267. Arena Sport 4 FHD sr
 http://wrlstr.dvrdns.org:18066/live?channelId=111&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="119" tvg-name="271. Sport klub 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="Nasi Kanali",271. Sport klub 1 FHD sr
-http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5 
 #EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="Nasi Kanali",273. Sport klub 2 FHD sr
 http://wrlstr.dvrdns.org:18066/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="Nasi Kanali",275. Sport klub 3 FHD sr
