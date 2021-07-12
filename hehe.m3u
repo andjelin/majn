@@ -71,6 +71,8 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13832
 http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1440
+#EXTINF:-1 tvg-id="SK_1_HD_CG" tvg-name="SK 1 HD CG" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk1hd.png" group-title="Nasi Kanali" ,SK 1 HD CG
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20967
 #EXTINF:-1 tvg-id="SK2 RS HD" tvg-name="sk2.rs" tvg-logo="http://54.38.54.93/example/logo/SK2HD.png" group-title="Nasi Kanali",Sport Klub 2 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17257
 #EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="Nasi Kanali",273. Sport klub 2 FHD sr
@@ -97,6 +99,8 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2933
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2934
 #EXTINF:-1 tvg-id="Sport Klub 10" tvg-name="Sport Klub 10" tvg-logo="http://proxiapp.me/logo/Sport/Domaci/SK10.png" group-title="Nasi Kanali",Sport Klub 10 (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2935
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SK 1  HR 50 fps" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk1hd.png" group-title="Nasi Kanali" ,SK 1  HR
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20962
 #EXTINF:-1 tvg-id="SK1 HR FHD" tvg-name="Sport Klub 1 FHD HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 FHD HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17256
 #EXTINF:-1 tvg-id="sk1" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 HD HR
@@ -1031,106 +1035,54 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/32687
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19614
 #EXTINF:-1 tvg-id="planet" tvg-name="planet" tvg-logo="" group-title="Nasi Kanali",planet
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOTAL CINEMA 1 HD" tvg-logo="" group-title="Nasi Kanali",TOTAL CINEMA 1 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4840
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_2_HD" tvg-name="TOTAL CINEMA 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",TOTAL CINEMA 2 HD
-http://bitkananeretvi.net:8000/live.ts?channelId=21684&uid=34972&deviceMac=00:1A:79:40:9C:E9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOTAL CINEMA 3 HD" tvg-logo="" group-title="Nasi Kanali",TOTAL CINEMA 3 HD
-http://bitkananeretvi.net:8000/live.ts?channelId=21685&uid=34972&deviceMac=00:1A:79:57:3B:3
-#EXTINF:-1 tvg-id="NET_FILM_1_HD_(EXYU_FILM)" tvg-name="NET FILM 1 HD (EXYU FILM)" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NET FILM 1 HD (EXYU FILM)
-http://simpsongroups.com:7070/live.ts?channelId=28654&uid=19881&deviceMac=00:1A:79:70:46:09
-#EXTINF:-1 tvg-id="NET_FILM_2_HD_(EXYU_FILM)" tvg-name="NET FILM 2 HD (EXYU FILM)" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NET FILM 2 HD (EXYU FILM)
-http://simpsongroups.com:7070/live.ts?channelId=28655&uid=19881&deviceMac=00:1A:79:70:46:09
-#EXTINF:-1 tvg-id="NET_FILM_3_HD_(EXYU_FILM)" tvg-name="NET FILM 3 HD (EXYU FILM)" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NET FILM 3 HD (EXYU FILM)
-http://simpsongroups.com:7070/live.ts?channelId=28656&uid=19881&deviceMac=00:1A:79:70:46:09
-#EXTINF:-1 tvg-id="CINEMACIOUS_1_HD" tvg-name="CINEMACIOUS 1 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 1 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_1_HD" tvg-name="CINEMACIOUS 1 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 1 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21675
-#EXTINF:-1 tvg-id="CINEMACIOUS_2_HD" tvg-name="CINEMACIOUS 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 2 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_2_HD" tvg-name="CINEMACIOUS 2 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 2 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21676
-#EXTINF:-1 tvg-id="CINEMACIOUS_3_HD" tvg-name="CINEMACIOUS 3 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 3 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_3_HD" tvg-name="CINEMACIOUS 3 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 3 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21677
-#EXTINF:-1 tvg-id="CINEMACIOUS_4_HD" tvg-name="CINEMACIOUS 4 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 4 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_4_HD" tvg-name="CINEMACIOUS 4 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 4 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21678
-#EXTINF:-1 tvg-id="CINEMACIOUS_5_HD" tvg-name="CINEMACIOUS 5 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 5 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_5_HD" tvg-name="CINEMACIOUS 5 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 5 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21679
-#EXTINF:-1 tvg-id="CINEMACIOUS_6_HD" tvg-name="CINEMACIOUS 6 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 6 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_6_HD" tvg-name="CINEMACIOUS 6 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 6 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21680
-#EXTINF:-1 tvg-id="CINEMACIOUS_7_HD" tvg-name="CINEMACIOUS 7 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 7 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_7_HD" tvg-name="CINEMACIOUS 7 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 7 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21681
-#EXTINF:-1 tvg-id="CINEMACIOUS_8_HD" tvg-name="CINEMACIOUS 8 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINEMACIOUS 8 HD
+#EXTINF:-1 tvg-id="CINEMACIOUS_8_HD" tvg-name="CINEMACIOUS 8 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 8 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21682
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_1_HD" tvg-name="TOTAL CINEMA 1 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TOTAL CINEMA 1 HD
+#EXTINF:-1 tvg-id="TOTAL_CINEMA_1_HD" tvg-name="TOTAL CINEMA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 1 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21683
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_2_HD" tvg-name="TOTAL CINEMA 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TOTAL CINEMA 2 HD
+#EXTINF:-1 tvg-id="TOTAL_CINEMA_2_HD" tvg-name="TOTAL CINEMA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 2 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21684
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_3_HD" tvg-name="TOTAL CINEMA 3 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TOTAL CINEMA 3 HD
+#EXTINF:-1 tvg-id="TOTAL_CINEMA_3_HD" tvg-name="TOTAL CINEMA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 3 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21685
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 1 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_1_HD" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 1 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15204
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 2 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_2_HD" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 2 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15205
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 3 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_3_HD" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 3 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15206
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 4 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_4_HD" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 4 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15207
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 5 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_5_HD" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 5 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15208
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 6 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_6_HD" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 6 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15209
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 7 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_7_HD" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 7 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15210
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 8 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_8_HD" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 8 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15211
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 9 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_9_HD" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 9 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15212
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 10 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_10_HD" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 10 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15213
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 11 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_11_HD" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 11 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15214
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT KIDS HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_KIDS_HD" tvg-name="MAXCRO SELECT KIDS HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15217
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT KIDS 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS 2 HD
+#EXTINF:-1 tvg-id="MAXCRO_SELECT_KIDS_2_HD" tvg-name="MAXCRO SELECT KIDS 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS 2 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15218
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2K" tvg-logo="" group-title="Nasi Kanali",Nova Cinema 2K
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/12086
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="" group-title="Nasi Kanali",Nova Cinema 1
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10188
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="" group-title="Nasi Kanali",Nova Cinema 2
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10189
-#EXTINF:-1 tvg-id="" tvg-name="Nova Family" tvg-logo="" group-title="Nasi Kanali",Nova Family
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/12084
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Balkan 1 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Balkan 1 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/9343
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Balkan 2 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Balkan 2 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/9342
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX KINO HD" tvg-logo="" group-title="Nasi Kanali",CROMAX KINO HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6274
-#EXTINF:-1 tvg-id="" tvg-name="M MOVIES PREMIERE" tvg-logo="" group-title="Nasi Kanali",M MOVIES PREMIERE
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6273
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select (Gold) HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select (Gold) HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/3799
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select (Premium) HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select (Premium) HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/3798
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select (Horor) HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select (Horor) HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5467
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 1 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 1 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/426
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 2 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 2 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5468
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 3 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 3 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5469
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 4 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 4 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5470
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 5 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 5 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5471
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 6 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 6 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5472
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 7 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 7 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5473
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 8 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 8 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5474
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 9 HD" tvg-logo="" group-title="Nasi Kanali",CROMAX Select 9 HD
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5475
 #EXTINF:-1 tvg-id="nova-plus-family" tvg-name="NOVA FAMILY" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/nova-family.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA FAMILY
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20262
 #EXTINF:-1 tvg-id="nova-plus-family" tvg-name="NOVA FAMILY." tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/nova-family.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA FAMILY.
@@ -1141,26 +1093,6 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20263
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22879
 #EXTINF:-1 tvg-id="nova-world" tvg-name="NOVA WORLD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/novaw.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA WORLD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21759
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select Premium FHD HR" tvg-logo="" group-title="Nasi Kanali",Max Select Premium FHD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 1 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 2 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 2 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 3 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 3 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 4 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 4 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 5 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 5 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 6 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 6 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 7 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 7 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 8 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 8 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 9 HD HR" tvg-logo="" group-title="Nasi Kanali",Max Select 9 HD HR
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20154
 #EXTINF:-1 tvg-id="Sport Klub Golf" tvg-name="skgolf" tvg-logo="http://54.38.54.93/example/logo/SKGolf.png" group-title="Nasi Kanali",Sport Klub Golf
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4840
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 SI" tvg-logo="" group-title="Nasi Kanali",Sport Slovenija
@@ -1171,9 +1103,9 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/16822
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/16823
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
 http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="" tvg-name="ARENA ESPORT HD" tvg-link="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDjqmI1DtcH2xJrN8T5IN3nIlTvHAEykY80xg=s240-mo-c-c0xffffffff-rj-k-no" group-title="Nasi Kanali" ,ARENA ESPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="ARENA ENasi Kanali HD" tvg-link="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDjqmI1DtcH2xJrN8T5IN3nIlTvHAEykY80xg=s240-mo-c-c0xffffffff-rj-k-no" group-title="Nasi Kanali" ,ARENA ENasi Kanali HD
 http://mndreamvspp.for-better.biz:5436/NABnMH87Qv/1m315LpRVh/16131
-#EXTINF:-1 tvg-id="SK Esports" tvg-name="SK Esport HD" tvg-link="" tvg-logo="http://54.38.54.93/example/logo/SK%20Esports.png" group-title="Nasi Kanali" ,SK ESPORTS HD
+#EXTINF:-1 tvg-id="SK Esports" tvg-name="SK Esport HD" tvg-link="" tvg-logo="http://54.38.54.93/example/logo/SK%20Esports.png" group-title="Nasi Kanali" ,SK ENasi KanaliS HD
 http://mndreamvspp.for-better.biz:5436/NABnMH87Qv/1m315LpRVh/10533
 #EXTINF:-1 tvg-id="109" tvg-name="263. Arena Sport 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="Nasi Kanali",263. Arena Sport 2 FHD sr
 http://wrlstr.dvrdns.org:18066/live?channelId=109&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
@@ -1199,7 +1131,7 @@ http://wrlstr.dvrdns.org:18066/live?channelId=117&uid=318&deviceUser=brankonemac
 http://wrlstr.dvrdns.org:18066/live?channelId=118&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",260. Arena Sport 1 HD Sr
 http://telehetz.dvrdns.org:12345/live?channelId=362&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="330. SPORT NEWS DE" tvg-logo="http://facetv.formea.ba:88/imagess/skysportsnews.png" group-title="Nasi Kanali",330. SPORT NEWS DE
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="330. Nasi Kanali NEWS DE" tvg-logo="http://facetv.formea.ba:88/imagess/skysportsnews.png" group-title="Nasi Kanali",330. Nasi Kanali NEWS DE
 http://wrlstr.dvrdns.org:18066/live?channelId=373&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="607" tvg-name="331. SKY Sport Bundesliga TOP GAME" tvg-logo="/noicon.png" group-title="Nasi Kanali",331. SKY Sport Bundesliga TOP GAME
 http://wrlstr.dvrdns.org:18066/live?channelId=607&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
@@ -1217,9 +1149,9 @@ http://telehetz.dvrdns.org:12345/live?channelId=603&uid=318&deviceUser=brankonem
 http://wrlstr.dvrdns.org:18066/live?channelId=602&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="342. SKY Sport Bundesliga 6 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",342. SKY Sport Bundesliga 6 HD
 http://telehetz.dvrdns.org:12345/live?channelId=601&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="Sky Sports F1 FHD" tvg-name="351. SKY SPORT 1 FHD" tvg-logo="/noicon.png" group-title="Nasi Kanali",351. SKY SPORT 1 FHD
+#EXTINF:-1 tvg-id="Sky Sports F1 FHD" tvg-name="351. SKY Nasi Kanali 1 FHD" tvg-logo="/noicon.png" group-title="Nasi Kanali",351. SKY Nasi Kanali 1 FHD
 http://wrlstr.dvrdns.org:18066/live?channelId=590&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="157" tvg-name="352. SKY SPORT 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="Nasi Kanali",352. SKY SPORT 2 HD
+#EXTINF:-1 tvg-id="157" tvg-name="352. SKY Nasi Kanali 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="Nasi Kanali",352. SKY Nasi Kanali 2 HD
 http://wrlstr.dvrdns.org:18066/live?channelId=157&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sport TV 1 FHD POR" tvg-name="374. Sport 1 FHD" tvg-logo="/noicon.png" group-title="Nasi Kanali",374. Sport 1 FHD
 http://wrlstr.dvrdns.org:18066/live?channelId=578&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
@@ -1229,17 +1161,17 @@ http://telehetz.dvrdns.org:12345/live?channelId=392&uid=318&deviceUser=brankonem
 http://telehetz.dvrdns.org:12345/live?channelId=279&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="366" tvg-name="377. DAZN 3 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",377. DAZN 3 HD
 http://wrlstr.dvrdns.org:18066/live?channelId=366&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="426" tvg-name="380. FOX SPORT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport.png" group-title="Nasi Kanali",380. FOX SPORT 1 HD
+#EXTINF:-1 tvg-id="426" tvg-name="380. FOX Nasi Kanali 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport.png" group-title="Nasi Kanali",380. FOX Nasi Kanali 1 HD
 http://wrlstr.dvrdns.org:18066/live?channelId=426&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="427" tvg-name="381. FOX SPORT 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport2.png" group-title="Nasi Kanali",381. FOX SPORT 2 HD
+#EXTINF:-1 tvg-id="427" tvg-name="381. FOX Nasi Kanali 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport2.png" group-title="Nasi Kanali",381. FOX Nasi Kanali 2 HD
 http://telehetz.dvrdns.org:12345/live?channelId=427&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="428" tvg-name="382. FOX SPORT 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport3.png" group-title="Nasi Kanali",382. FOX SPORT 3 HD
+#EXTINF:-1 tvg-id="428" tvg-name="382. FOX Nasi Kanali 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport3.png" group-title="Nasi Kanali",382. FOX Nasi Kanali 3 HD
 http://wrlstr.dvrdns.org:18066/live?channelId=428&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="429" tvg-name="383. FOX SPORT 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsports4.png" group-title="Nasi Kanali",383. FOX SPORT 4 HD
+#EXTINF:-1 tvg-id="429" tvg-name="383. FOX Nasi Kanali 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsports4.png" group-title="Nasi Kanali",383. FOX Nasi Kanali 4 HD
 http://telehetz.dvrdns.org:12345/live?channelId=429&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="447" tvg-name="384. FOX SPORT 5 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",384. FOX SPORT 5 HD
+#EXTINF:-1 tvg-id="447" tvg-name="384. FOX Nasi Kanali 5 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",384. FOX Nasi Kanali 5 HD
 http://wrlstr.dvrdns.org:18066/live?channelId=447&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="449" tvg-name="385. FOX SPORT 6 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",385. FOX SPORT 6 HD
+#EXTINF:-1 tvg-id="449" tvg-name="385. FOX Nasi Kanali 6 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",385. FOX Nasi Kanali 6 HD
 http://telehetz.dvrdns.org:12345/live?channelId=449&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="421" tvg-name="387. BEIN Sport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd1.png" group-title="Nasi Kanali",387. BEIN Sport 1 HD
 http://wrlstr.dvrdns.org:18066/live?channelId=421&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
