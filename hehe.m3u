@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtcg1" tvg-name="rtcg1" tvg-logo="http://proxiapp.me/logo/cg/RTCG1.png" group-title="Nasi Kanali",RTCG 1
+#EXTINF:-1 tvg-id="RTCG 1" tvg-name="rtcg1" tvg-logo="http://proxiapp.me/logo/cg/RTCG1.png" group-title="Nasi Kanali",RTCG 1
 http://wrlstr.dvrdns.org:18066/live?channelId=275&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="TVCG Sat FHD" tvg-name="rtcgSat" tvg-logo="http://54.38.54.93/example/logo/RTCG%20Sat.png" group-title="Nasi Kanali",RTCG Satelit
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-name="rtcgSat" tvg-logo="http://54.38.54.93/example/logo/RTCG%20Sat.png" group-title="Nasi Kanali",RTCG Satelit
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13814
-#EXTINF:-1 tvg-id="rtcg2" tvg-name="rtcg2" tvg-logo="http://proxiapp.me/logo/cg/RTCG2.png" group-title="Nasi Kanali",RTCG 2
+#EXTINF:-1 tvg-id="RTCG 2" tvg-name="rtcg2" tvg-logo="http://proxiapp.me/logo/cg/RTCG2.png" group-title="Nasi Kanali",RTCG 2
 http://telehetz.dvrdns.org:12345/live?channelId=266&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="vijesticg" tvg-name="vijesticg" tvg-logo="http://proxiapp.me/logo/cg/TvVijesti.png" group-title="Nasi Kanali", Vijesti TV (mtel)
+#EXTINF:-1 tvg-id="Vijesti 24" tvg-name="vijesticg" tvg-logo="http://proxiapp.me/logo/cg/TvVijesti.png" group-title="Nasi Kanali", Vijesti TV (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2874
 #EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="jazeera" tvg-logo="http://54.38.54.93/example/logo/Al%20Jazeera%20Balkans.png" group-title="Nasi Kanali",Al Jazeera
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3189
@@ -285,7 +285,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27819
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4722
 #EXTINF:-1 tvg-id="FILM_KLUB" tvg-name="FILM KLUB" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,FILM KLUB
 http://client.nodomain.vip:80/live.ts?channelId=1845&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="kinotv" tvg-name="kinotv" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pr/kinotv-alt.png" group-title="Nasi Kanali",Kino TV
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pr/kinotv-alt.png" group-title="Nasi Kanali",Kino TV
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27548
 #EXTINF:-1 tvg-id="Klasik TV" tvg-name="klasiktv" tvg-logo="http://54.38.54.93/example/logo/Klasik%20TV.png" group-title="Nasi Kanali",Klasik Tv
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3194
@@ -311,7 +311,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/20143
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1445
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="discovery" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Channel.png" group-title="Nasi Kanali",Discovery HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/13464
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="discoverysci" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Science.png" group-title="Nasi Kanali",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="discoverysci" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Science.png" group-title="Nasi Kanali",Discovery Science
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2931
 #EXTINF:-1 tvg-id="discoverysci" tvg-name="discoverysci" group-title="Nasi Kanali",Discovery Science
 http://simpsongroups.com:7070/live.ts?channelId=403&uid=19881&deviceMac=00:1A:79:70:46:09
@@ -1065,9 +1065,9 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21683
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21684
 #EXTINF:-1 tvg-id="TOTAL_CINEMA_3_HD" tvg-name="TOTAL CINEMA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 3 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21685
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_1_HD" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 1 HD
+#EXTINF:-1 tvg-id="CROMAX Select 1" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 1 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15204
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_2_HD" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 2 HD
+#EXTINF:-1 tvg-id="CROMAX Select 2" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 2 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15205
 #EXTINF:-1 tvg-id="MAXCRO_SELECT_3_HD" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 3 HD
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15206
