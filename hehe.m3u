@@ -48,13 +48,13 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1443
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="eurosport2" tvg-logo="http://54.38.54.93/example/logo/Eurosport%202.png" group-title="Nasi Kanali",EuroSport 2
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1444
 #EXTINF:-1 tvg-id="" tvg-name="eurosport2" tvg-logo="" group-title="Nasi Kanali",EuroSport 2 (REZERVA)
-http://wrlstr.dvrdns.org:12345/live?channelId=118&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=118&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-ID="Nova Sport RS/BH FHD" tvg-name="Nova Sport RS/HR/BH FHD" tvg-logo="http://54.38.54.93/example/logo/Nova%20Sport.png" group-title="Nasi Kanali",Nova Sport HD RS
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/29855
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://54.38.54.93/example/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3182
 #EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",261. Arena Sport 1 (Rezerva) FHD
-http://wrlstr.dvrdns.org:12345/live?channelId=108&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=108&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="arena2.rs" tvg-logo="http://54.38.54.93/example/logo/A2.png" group-title="Nasi Kanali",Arenasport 2 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3183
 #EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="arena3.rs" tvg-logo="http://54.38.54.93/example/logo/A3.png" group-title="Nasi Kanali",Arenasport 3 SRB
@@ -63,24 +63,12 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3184
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3185
 #EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="arena5.rs" tvg-logo="http://54.38.54.93/example/logo/A5.png" group-title="Nasi Kanali",Arenasport 5 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3186
-#EXTINF:-1 tvg-id="ARENA_SPORT_1X2" tvg-name="ARENA SPORT 1X2" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="Nasi Kanali" ,ARENA SPORT 1X2
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22889
-#EXTINF:-1 tvg-id="ARENA_SPORT_6_(HR)" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="Nasi Kanali" ,ARENA SPORT 6 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23213
-#EXTINF:-1 tvg-id="ARENA_SPORT_7_(HR)" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 7 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23214
-#EXTINF:-1 tvg-id="ARENA_SPORT_8_(HR)" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 8 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23215
-#EXTINF:-1 tvg-id="ARENA_SPORT_9_(HR)" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 9 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23216
-#EXTINF:-1 tvg-id="ARENA_SPORT_10_(HR)" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 10 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23217
 #EXTINF:-1 tvg-id="SK HD" tvg-name="skhd" tvg-logo="http://54.38.54.93/example/logo/SKHD.png" group-title="Nasi Kanali",Sport Klub
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27524
 #EXTINF:-1 tvg-id="SK1 RS HD" tvg-name="sk1.rs" tvg-logo="http://54.38.54.93/example/logo/SK1HD.png" group-title="Nasi Kanali",Sport Klub 1 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13832
 #EXTINF:-1 tvg-id="119" tvg-name="271. Sport klub 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="Nasi Kanali",271. Sport klub 1 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1440
 #EXTINF:-1 tvg-id="SK_1_HD_CG" tvg-name="SK 1 HD CG" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk1hd.png" group-title="Nasi Kanali" ,SK 1 HD CG
@@ -88,13 +76,13 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20967
 #EXTINF:-1 tvg-id="SK2 RS HD" tvg-name="sk2.rs" tvg-logo="http://54.38.54.93/example/logo/SK2HD.png" group-title="Nasi Kanali",Sport Klub 2 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17257
 #EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="Nasi Kanali",273. Sport klub 2 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk2.rs" tvg-name="sk2.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 2 SRB (Rezerva)
-http://wrlstr.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="SK3 RS HD" tvg-name="sk3.rs" tvg-logo="http://54.38.54.93/example/logo/SK3HD.png" group-title="Nasi Kanali",Sport Klub 3 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17258
 #EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="Nasi Kanali",275. Sport klub 3 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk3.rs" tvg-name="sk3.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 3 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1442
 #EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="sk4.rs" tvg-logo="http://54.38.54.93/example/logo/SK4.png" group-title="Nasi Kanali",Sport Klub 4 SRB
@@ -157,6 +145,18 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1439
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13827
 #EXTINF:-1 tvg-id="Arena Sport 6 HR FHD" tvg-name="arena6" tvg-logo="" group-title="Nasi Kanali",Arenasport 6 HRV
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13828
+#EXTINF:-1 tvg-id="ARENA_SPORT_1X2" tvg-name="ARENA SPORT 1X2" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="Nasi Kanali" ,ARENA SPORT 1X2
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22889
+#EXTINF:-1 tvg-id="ARENA_SPORT_6_(HR)" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="Nasi Kanali" ,ARENA SPORT 6 (HR)
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23213
+#EXTINF:-1 tvg-id="ARENA_SPORT_7_(HR)" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 7 (HR)
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23214
+#EXTINF:-1 tvg-id="ARENA_SPORT_8_(HR)" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 8 (HR)
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23215
+#EXTINF:-1 tvg-id="ARENA_SPORT_9_(HR)" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 9 (HR)
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23216
+#EXTINF:-1 tvg-id="ARENA_SPORT_10_(HR)" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 10 (HR)
+http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23217 
 #EXTINF:-1 tvg-id="planetsport4" tvg-name="planetsport4" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/5e/PlanetSport.jpg" group-title="Nasi Kanali",PlanetSport 4
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27815
 #EXTINF:-1 tvg-id="planetsport5" tvg-name="planetsport5" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/5e/PlanetSport.jpg" group-title="Nasi Kanali",PlanetSport 5
@@ -214,7 +214,7 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4729
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandzak TV RS" tvg-logo="http://4.bp.blogspot.com/-zlbXfl1fxL8/VdzUDtH9YnI/AAAAAAAAAaA/oUEFOh4QJb0/s1600/Sand%25C5%25BEak%2Btv.png" group-title="Nasi Kanali",Sandzak TV RS
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13818
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO
-http://wrlstr.dvrdns.org:12345/live?channelId=90&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=90&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO.
 http://simpsongroups.com:7070/live.ts?channelId=350&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="hbo2" tvg-logo="http://54.38.54.93/example/logo/HBO%202%20HD.png" group-title="Nasi Kanali",HBO 2
@@ -226,7 +226,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17918
 #EXTINF:-1 tvg-id="hbo3" tvg-name="hbo3" tvg-logo="" group-title="Nasi Kanali",HBO 3 [Rezerva]
 http://simpsongroups.com:7070/live.ts?channelId=352&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV" tvg-name="cinestartv" tvg-logo="http://54.38.54.93/example/logo/CineStar%20TV.png" group-title="Nasi Kanali",CineStar TV
-http://wrlstr.dvrdns.org:12345/live?channelId=265&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=265&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="CINESTAR TV HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR TV HD
 http://simpsongroups.com:7070/live.ts?channelId=342&uid=19881&deviceMac=00:1A:79:70:46:09
 #EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinesta" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2 (mtel)
@@ -268,13 +268,13 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13805
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star TV RS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/05/star-tv-.png?resize=219%2C219" group-title="Nasi Kanali",Star TV RS
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28252
 #EXTINF:-1 tvg-id="Fox" tvg-name="foxtv" tvg-logo="http://54.38.54.93/example/logo/FOX.png" group-title="Nasi Kanali",FOX TV 
-http://wrlstr.dvrdns.org:12345/live?channelId=93&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=93&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/fox.png?resize=219%2C219" group-title="Nasi Kanali" ,FOX
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/206
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD " tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="Nasi Kanali" ,FOX HD 
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20980
 #EXTINF:-1 tvg-id="FOX Movies" tvg-name="foxmovies" tvg-logo="http://54.38.54.93/example/logo/FOX%20Movies.png" group-title="Nasi Kanali",Fox Movies
-http://wrlstr.dvrdns.org:12345/live?channelId=276&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=276&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="FOX_MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://nstatic.net/img/tv/channels/m/fox-movies.png" group-title="Nasi Kanali" ,FOX MOVIES
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/273
 #EXTINF:-1 tvg-id="FOX_MOVIES_HD" tvg-name="FOX MOVIES HD" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,FOX MOVIES HD
@@ -282,7 +282,7 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/312
 #EXTINF:-1 tvg-id="FOX_MOVIES_HD." tvg-name="FOX MOVIES HD." tvg-logo="/noicon.png" group-title="Nasi Kanali" ,FOX MOVIES HD.
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22949
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="foxlife" tvg-logo="http://54.38.54.93/example/logo/FOX%20Life.png" group-title="Nasi Kanali",Fox Life
-http://wrlstr.dvrdns.org:12345/live?channelId=95&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=95&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="FOX_LIFE" tvg-name="FOX LIFE" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/FOX%20Life.png" group-title="Nasi Kanali" ,FOX LIFE
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4716
 #EXTINF:-1 tvg-id="FOX Crime" tvg-name="foxcrime" tvg-logo="http://54.38.54.93/example/logo/FOX%20Crime.png" group-title="Nasi Kanali",Fox Crime
@@ -350,7 +350,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19006
 #EXTINF:-1 tvg-id="Crime & Investigation" tvg-name="crimeinvestigation" ttvg-logo="http://54.38.54.93/example/logo/Crime%20&%20Investigation.png" group-title="Nasi Kanali",CrimeInvestigation
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3191
 #EXTINF:-1 tvg-id="History Channel" tvg-name="history" tvg-logo="http://54.38.54.93/example/logo/History%20Channel%20HD.png" group-title="Nasi Kanali",History
-http://wrlstr.dvrdns.org:12345/live?channelId=250&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=250&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png" group-title="Nasi Kanali" ,HISTORY
 http://client.nodomain.vip:80/live.ts?channelId=84&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
 #EXTINF:-1 tvg-id="H2" tvg-name="history2" tvg-logo="http://54.38.54.93/example/logo/H2.png" group-title="Nasi Kanali",History 2
@@ -388,7 +388,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27134
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC RS" group-title="Nasi Kanali",TLC RS
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13820
 #EXTINF:-1 tvg-id="CBS Reality" tvg-name="cbsreality" tvg-logo="http://54.38.54.93/example/logo/CBS%20Reality.png" group-title="Nasi Kanali",CBS Reality
-http://wrlstr.dvrdns.org:12345/live?channelId=420&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=420&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Food Network" tvg-name="foodnetwork" tvg-logo="https://p.kindpng.com/picc/s/245-2453753_food-network-logo-white-hd-png-download.png" group-title="Nasi Kanali",Food Network
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17267
 #EXTINF:-1 tvg-id="woman" tvg-name="woman" tvg-link="" tvg-logo="https://epg.serbianforum.org/logo_znaci/Woman.png" group-title="Nasi Kanali" ,Woman TV (mtel)
@@ -1163,19 +1163,19 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21759
 #EXTINF:-1 tvg-id="380" tvg-name="431. Cinemacious 1" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 1brank
 http://telehetz.dvrdns.org:12345/live?channelId=380&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="381" tvg-name="432. Cinemacious 2" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 2
-http://wrlstr.dvrdns.org:12345/live?channelId=381&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
+http://telehetz.dvrdns.org:12345/live?channelId=381&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="382" tvg-name="433. Cinemacious 3" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 3
 http://telehetz.dvrdns.org:12345/live?channelId=382&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="383" tvg-name="434. Cinemacious 4" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 4
-http://wrlstr.dvrdns.org:12345/live?channelId=383&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
+http://telehetz.dvrdns.org:12345/live?channelId=383&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="384" tvg-name="435. Cinemacious 5" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 5
 http://telehetz.dvrdns.org:12345/live?channelId=384&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="385" tvg-name="436. Cinemacious 6" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 6
-http://wrlstr.dvrdns.org:12345/live?channelId=385&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
+http://telehetz.dvrdns.org:12345/live?channelId=385&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="386" tvg-name="437. Cinemacious 7" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 7
 http://telehetz.dvrdns.org:12345/live?channelId=386&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="387" tvg-name="438. Cinemacious 8" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 8
-http://wrlstr.dvrdns.org:12345/live?channelId=387&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
+http://telehetz.dvrdns.org:12345/live?channelId=387&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
 #EXTINF:-1 tvg-id="ANDRIJA_I_ANDJELKA_24/7" tvg-name="ANDRIJA I ANDJELKA 24/7" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ANDRIJA I ANDJELKA 24/7sivic
 http://client.nodomain.vip:80/live.ts?channelId=1867&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
 #EXTINF:-1 tvg-id="LUD_ZBUNJEN_NORMALAN_24/7" tvg-name="LUD ZBUNJEN NORMALAN 24/7" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,LUD ZBUNJEN NORMALAN 24/7
@@ -1271,74 +1271,74 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/16822
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub SI" tvg-logo="" group-title="Nasi Kanali",Sport Klub (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/16823
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
-http://wrlstr.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="109" tvg-name="263. Arena Sport 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="Nasi Kanali",263. Arena Sport 2 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=109&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=109&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="110" tvg-name="265. Arena Sport 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport3.png" group-title="Nasi Kanali",265. Arena Sport 3 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=110&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=110&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="111" tvg-name="267. Arena Sport 4 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="Nasi Kanali",267. Arena Sport 4 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=111&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=111&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="119" tvg-name="271. Sport klub 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="Nasi Kanali",271. Sport klub 1 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5 
+http://telehetz.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5 
 #EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="Nasi Kanali",273. Sport klub 2 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="Nasi Kanali",275. Sport klub 3 FHD sr
-http://wrlstr.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="430" tvg-name="308. Planet Sport 1 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",308. Planet Sport 1 HD
 http://telehetz.dvrdns.org:12345/live?channelId=430&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="431" tvg-name="309. Planet Sport 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",309. Planet Sport 2 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=431&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=431&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="432" tvg-name="310. Planet Sport 3 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",310. Planet Sport 3 HD
 http://telehetz.dvrdns.org:12345/live?channelId=432&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="117" tvg-name="313. Eurosport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/eurosport.png" group-title="Nasi Kanali",313. Eurosport 1 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=117&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=117&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="118" tvg-name="315. Eurosport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/sport1eurosport2.png" group-title="Nasi Kanali",315. Eurosport 2 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=118&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=118&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",260. Arena Sport 1 HD Sr
 http://telehetz.dvrdns.org:12345/live?channelId=362&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="330. Nasi Kanali NEWS DE" tvg-logo="http://facetv.formea.ba:88/imagess/skysportsnews.png" group-title="Nasi Kanali",330. Nasi Kanali NEWS DE
-http://wrlstr.dvrdns.org:12345/live?channelId=373&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=373&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="607" tvg-name="331. SKY Sport Bundesliga TOP GAME" tvg-logo="/noicon.png" group-title="Nasi Kanali",331. SKY Sport Bundesliga TOP GAME
-http://wrlstr.dvrdns.org:12345/live?channelId=607&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=607&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Fußball Bundesliga 1 DE" tvg-name="332. SKY Sport Bundesliga 1 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",332. SKY Sport Bundesliga 1 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=606&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=606&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Fußball Bundesliga 1 DE" tvg-name="333. SKY Sport Bundesliga 1 FHD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="Nasi Kanali",333. SKY Sport Bundesliga 1 FHD
-http://wrlstr.dvrdns.org:12345/live?channelId=146&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=146&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Fußball Bundesliga 2 *Only Live*" tvg-name="334. SKY Sport Bundesliga 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",334. SKY Sport Bundesliga 2 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=605&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=605&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Fußball Bundesliga 3 *Only Live*" tvg-name="336. SKY Sport Bundesliga 3 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",336. SKY Sport Bundesliga 3 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=604&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=604&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Fußball Bundesliga 4 *Only Live*" tvg-name="338. SKY Sport Bundesliga 4 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",338. SKY Sport Bundesliga 4 HD
 http://telehetz.dvrdns.org:12345/live?channelId=603&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="340. SKY Sport Bundesliga 5 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",340. SKY Sport Bundesliga 5 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=602&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=602&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="342. SKY Sport Bundesliga 6 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",342. SKY Sport Bundesliga 6 HD
 http://telehetz.dvrdns.org:12345/live?channelId=601&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sky Sports F1 FHD" tvg-name="351. SKY Nasi Kanali 1 FHD" tvg-logo="/noicon.png" group-title="Nasi Kanali",351. SKY Nasi Kanali 1 FHD
-http://wrlstr.dvrdns.org:12345/live?channelId=590&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=590&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="157" tvg-name="352. SKY Nasi Kanali 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="Nasi Kanali",352. SKY Nasi Kanali 2 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=157&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=157&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Sport TV 1 FHD POR" tvg-name="374. Sport 1 FHD" tvg-logo="/noicon.png" group-title="Nasi Kanali",374. Sport 1 FHD
-http://wrlstr.dvrdns.org:12345/live?channelId=578&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=578&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="DAZN 1 Bar DE" tvg-name="375. DAZN 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/dazn.png" group-title="Nasi Kanali",375. DAZN 1 HD
 http://telehetz.dvrdns.org:12345/live?channelId=392&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="DAZN 2 Bar DE" tvg-name="376. DAZN 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",376. DAZN 2 HD
 http://telehetz.dvrdns.org:12345/live?channelId=279&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="366" tvg-name="377. DAZN 3 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",377. DAZN 3 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=366&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=366&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="426" tvg-name="380. FOX Nasi Kanali 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport.png" group-title="Nasi Kanali",380. FOX Nasi Kanali 1 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=426&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=426&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="427" tvg-name="381. FOX Nasi Kanali 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport2.png" group-title="Nasi Kanali",381. FOX Nasi Kanali 2 HD
 http://telehetz.dvrdns.org:12345/live?channelId=427&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="428" tvg-name="382. FOX Nasi Kanali 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport3.png" group-title="Nasi Kanali",382. FOX Nasi Kanali 3 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=428&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=428&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="429" tvg-name="383. FOX Nasi Kanali 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsports4.png" group-title="Nasi Kanali",383. FOX Nasi Kanali 4 HD
 http://telehetz.dvrdns.org:12345/live?channelId=429&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="447" tvg-name="384. FOX Nasi Kanali 5 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",384. FOX Nasi Kanali 5 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=447&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=447&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="449" tvg-name="385. FOX Nasi Kanali 6 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",385. FOX Nasi Kanali 6 HD
 http://telehetz.dvrdns.org:12345/live?channelId=449&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="421" tvg-name="387. BEIN Sport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd1.png" group-title="Nasi Kanali",387. BEIN Sport 1 HD
-http://wrlstr.dvrdns.org:12345/live?channelId=421&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://telehetz.dvrdns.org:12345/live?channelId=421&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="422" tvg-name="388. BEIN Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd2.png" group-title="Nasi Kanali",388. BEIN Sport 2 HD
 http://telehetz.dvrdns.org:12345/live?channelId=422&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
