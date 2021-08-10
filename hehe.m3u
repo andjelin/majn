@@ -54,8 +54,8 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1094
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/29855
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://54.38.54.93/example/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3182
-#EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",261. Arena Sport 1 (Rezerva) FHD
-http://telehetz.dvrdns.org:12345/live?channelId=108&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",261. Arena Sport 1 50fps
+http://protv-nordic.club:8080/sanela123/sanela123/20644
 #EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="arena2.rs" tvg-logo="http://54.38.54.93/example/logo/A2.png" group-title="Nasi Kanali",Arenasport 2 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3183
 #EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="arena3.rs" tvg-logo="http://54.38.54.93/example/logo/A3.png" group-title="Nasi Kanali",Arenasport 3 SRB
@@ -118,14 +118,6 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17249
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17250
 #EXTINF:-1 tvg-id="sk6" tvg-name="Sport Klub 6 HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 6 HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17251
-#EXTINF:-1 tvg-id="PlanetSport 1" tvg-name="planetsport1" tvg-logo="http://54.38.54.93/example/logo/Planet%20Sport%201.png" group-title="Nasi Kanali",PlanetSport 1
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/26089
-#EXTINF:-1 tvg-id="PlanetSport 2" tvg-name="planetsport2" tvg-logo="http://54.38.54.93/example/logo/Planet%20Sport%202.png" group-title="Nasi Kanali",PlanetSport 2
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/26090
-#EXTINF:-1 tvg-id="PlanetSport 3" tvg-name="planetsport3" tvg-logo="http://54.38.54.93/example/logo/Planet%20Sport%203.png" group-title="Nasi Kanali",PlanetSport 3
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/26091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport / Moja TV HD BH" tvg-logo="" group-title="Nasi Kanali",Arena Sport / Moja TV HD BH
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28085
 #EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19004
 #EXTINF:-1 tvg-id="arena1" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV (Rezerva)
@@ -149,15 +141,15 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/13828
 #EXTINF:-1 tvg-id="ARENA_SPORT_1X2" tvg-name="ARENA SPORT 1X2" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="Nasi Kanali" ,ARENA SPORT 1X2
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22889
 #EXTINF:-1 tvg-id="ARENA_SPORT_6_(HR)" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="Nasi Kanali" ,ARENA SPORT 6 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23213
+http://protv-nordic.club:8080/sanela123/sanela123/20639
 #EXTINF:-1 tvg-id="ARENA_SPORT_7_(HR)" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 7 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23214
+http://protv-nordic.club:8080/sanela123/sanela123/73443
 #EXTINF:-1 tvg-id="ARENA_SPORT_8_(HR)" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 8 (HR)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23215
 #EXTINF:-1 tvg-id="ARENA_SPORT_9_(HR)" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 9 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23216
+http://protv-nordic.club:8080/sanela123/sanela123/73445
 #EXTINF:-1 tvg-id="ARENA_SPORT_10_(HR)" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 10 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23217 
+http://protv-nordic.club:8080/sanela123/sanela123/73446
 #EXTINF:-1 tvg-id="planetsport4" tvg-name="planetsport4" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/5e/PlanetSport.jpg" group-title="Nasi Kanali",PlanetSport 4
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/27815
 #EXTINF:-1 tvg-id="planetsport5" tvg-name="planetsport5" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/5e/PlanetSport.jpg" group-title="Nasi Kanali",PlanetSport 5
@@ -233,35 +225,35 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3925
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3934
 #EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="CINESTAR TV HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR TV HD
-http://simpsongroups.com:7070/live.ts?channelId=342&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/504
 #EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinesta" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2 (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21018
 #EXTINF:-1 tvg-id="cinestartv2.hr" tvg-name="CINESTAR TV 2 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR TV 2 HD
-http://simpsongroups.com:7070/live.ts?channelId=15053&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/151438
 #EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-name="cinestaraction" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Action%20&%20Thriller.png" group-title="Nasi Kanali",CineStar Action & Thriller SRB
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3933
 #EXTINF:-1 tvg-id="cinestaractionan.rs" tvg-name="CINESTAR ACTION HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR ACTION HD
-http://simpsongroups.com:7070/live.ts?channelId=27778&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/505
 #EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-name="cinestarfantasy" tvg-logo="http://54.38.54.93/example/logo/Cinestar%20Fantasy.png" group-title="Nasi Kanali",CineStar Fantasy SRB
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3932
 #EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-name="CINESTAR FANTASY HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR FANTASY HD
-http://simpsongroups.com:7070/live.ts?channelId=344&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/510
 #EXTINF:-1 tvg-id="CineStar TV Comedy" tvg-name="cinestarcomedy.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Nasi Kanali",CineStar Comedy (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3544
 #EXTINF:-1 tvg-id="cinsetarcomedy.rs" tvg-name="CINESTAR COMEDY HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR COMEDY HD
-http://simpsongroups.com:7070/live.ts?channelId=345&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/9854
 #EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="cinestarpremiere1" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Premiere%201%20HD.png" group-title="Nasi Kanali",CineStar Premiere 1
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3936
 #EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="CINESTAR PREMIERE 1 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR PREMIERE 1 HD
-http://simpsongroups.com:7070/live.ts?channelId=346&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/506
 #EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="cinestarpremiere2" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Premiere%202%20HD.png" group-title="Nasi Kanali",CineStar Premiere 2
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3935
 #EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-name="CINESTAR PREMIERE 2 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR PREMIERE 2 HD
-http://simpsongroups.com:7070/live.ts?channelId=347&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/507
 #EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-name="cinemax1" tvg-logo="http://54.38.54.93/example/logo/Cinemax%201%20HD.png" group-title="Nasi Kanali",Cinemax 1
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/2022
 #EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="cinemax2" tvg-logo="http://54.38.54.93/example/logo/Cinemax%202%20HD.png" group-title="Nasi Kanali",Cinemax 2
@@ -289,7 +281,7 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3928
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3927
 #EXTINF:-1 tvg-id="FOX_CRIME" tvg-name="FOX CRIME" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Nasi Kanali" ,FOX CRIME
-http://simpsongroups.com:7070/live.ts?channelId=359&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/494
 #EXTINF:-1 tvg-id="Cinemania" tvg-name="cinemania" tvg-logo="http://54.38.54.93/example/logo/Cinemania.png" group-title="Nasi Kanali",Cinemania
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17270
 #EXTINF:-1 tvg-id="TV 1000" tvg-name="tv1000" tvg-logo="http://54.38.54.93/example/logo/TV%201000.png" group-title="Nasi Kanali",TV 1000
@@ -329,16 +321,16 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3906
 #EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="discoverysci" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Science.png" group-title="Nasi Kanali",Discovery Science
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2931
 #EXTINF:-1 tvg-id="discoverysci" tvg-name="discoverysci" group-title="Nasi Kanali",Discovery Science
-http://simpsongroups.com:7070/live.ts?channelId=403&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/471
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="natgeors" tvg-logo="http://54.38.54.93/example/logo/National%20Geographic%20HD.png" group-title="Nasi Kanali",National Geographic SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28070
 #EXTINF:-1 tvg-id="natgeors" tvg-name="natgeors" tvg-logo="" group-title="Nasi Kanali",National Geographic SRB
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3912
 #EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo" tvg-logo="" group-title="Nasi Kanali",National Geographic 
-http://simpsongroups.com:7070/live.ts?channelId=397&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/466
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="davinci" tvg-logo="http://54.38.54.93/example/logo/Da%20Vinci%20TV.png" group-title="Nasi Kanali",DaVinchi Learning.
-http://simpsongroups.com:7070/live.ts?channelId=10922&uid=19881&deviceMac=00:1A:79:70:46:09
+http://tv.iptvone.de:8080/testlinija/dejan1/65800
 #EXTINF:-1 tvg-id="Viasat Explore" tvg-name="viasatexp" tvg-logo="http://54.38.54.93/example/logo/Viasat%20Explore.png" group-title="Nasi Kanali",Viasat Explore
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/28071
 #EXTINF:-1 tvg-id="Viasat Nature" tvg-name="viasatnat" tvg-logo="http://54.38.54.93/example/logo/Viasat%20Nature.png" group-title="Nasi Kanali",Viasat Nautre
@@ -1310,6 +1302,16 @@ http://89.163.242.83:2082/Vaha/Vaha123456Vaha/425509
 http://89.163.242.83:2082/Vaha/Vaha123456Vaha/425510
 #EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali",BALKAN X DOKU
 http://89.163.242.83:2082/Vaha/Vaha123456Vaha/425511
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali", ONE CINEMA ACTION
+http://tv.iptvone.de:8080/testlinija/dejan1/169954
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali", ONE CINEMA COMEDY
+http://tv.iptvone.de:8080/testlinija/dejan1/169955
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali", ONE CINEMA HORROR
+http://tv.iptvone.de:8080/testlinija/dejan1/169956
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali", ONE CINEMA THRILLER
+http://tv.iptvone.de:8080/testlinija/dejan1/169957
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali", ONE CINEMA SCI-FI
+http://tv.iptvone.de:8080/testlinija/dejan1/169958
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
 http://telehetz.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="109" tvg-name="263. Arena Sport 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="Nasi Kanali",263. Arena Sport 2 FHD sr
