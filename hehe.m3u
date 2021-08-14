@@ -54,8 +54,9 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1094
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/29855
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://54.38.54.93/example/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3182
-#EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",261. Arena Sport 1 50fps
-http://protv-nordic.club:8080/sanela123/sanela123/20644
+#EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",Arena Sport 1 50fps
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4575
 #EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="arena2.rs" tvg-logo="http://54.38.54.93/example/logo/A2.png" group-title="Nasi Kanali",Arenasport 2 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3183
 #EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="arena3.rs" tvg-logo="http://54.38.54.93/example/logo/A3.png" group-title="Nasi Kanali",Arenasport 3 SRB
@@ -118,8 +119,8 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17249
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17250
 #EXTINF:-1 tvg-id="sk6" tvg-name="Sport Klub 6 HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 6 HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17251
-#EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV
-http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19004
+#EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV 50fps 
+http://protv-nordic.club:8080/sanela123/sanela123/20644
 #EXTINF:-1 tvg-id="arena1" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1436
 #EXTINF:-1 tvg-id="Arena Sport 2 HR FHD" tvg-name="arena2" tvg-logo="" group-title="Nasi Kanali",Arenasport 2 HRV
