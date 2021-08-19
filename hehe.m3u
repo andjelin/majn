@@ -120,7 +120,7 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17250
 #EXTINF:-1 tvg-id="sk6" tvg-name="Sport Klub 6 HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 6 HR
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/17251
 #EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV 50fps 
-http://protv-nordic.club:8080/sanela123/sanela123/20644
+http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/19004
 #EXTINF:-1 tvg-id="arena1" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1436
 #EXTINF:-1 tvg-id="Arena Sport 2 HR FHD" tvg-name="arena2" tvg-logo="" group-title="Nasi Kanali",Arenasport 2 HRV
@@ -1441,5 +1441,7 @@ http://telehetz.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonem
 http://telehetz.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",260. Arena Sport 1 HD Sr
 http://telehetz.dvrdns.org:12345/live?channelId=362&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD
+#EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD clientp
 http://clientportal.link:80/NestenDreambox/qAc9k7214/52131
+#EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD nordic
+http://protv-nordic.club:8080/sanela123/sanela123/20644
