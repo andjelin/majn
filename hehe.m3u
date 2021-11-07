@@ -56,6 +56,12 @@ http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/1444
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1094
 #EXTINF:-1 tvg-ID="Nova Sport RS/BH FHD" tvg-name="Nova Sport RS/HR/BH FHD" tvg-logo="http://54.38.54.93/example/logo/Nova%20Sport.png" group-title="Nasi Kanali",Nova Sport HD RS
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/29855
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1 RS" tvg-logo="" group-title="Nasi Kanali",Arena Premium 1 FHD RS
+http://clientportal.link:80/KdT9sl7DQ8215/rQN9Om925/92238
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 2 RS" tvg-logo="" group-title="Nasi Kanali",Arena Premium 2 FHD RS
+http://clientportal.link:80/KdT9sl7DQ8215/rQN9Om925/92239
+#EXTINF:-1 tvg-id="" tvg-name=" Arena Premium 3 RS" tvg-logo="" group-title="Nasi Kanali", Arena Premium 3 FHD RS
+http://clientportal.link:80/KdT9sl7DQ8215/rQN9Om925/92240
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://54.38.54.93/example/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
 http://tv.refundoiptv.iptv.uno:80/KdT9sl7DQ8215/rQN9Om925/3182
 #EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",Arena Sport 1 50fps
