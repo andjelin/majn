@@ -51,9 +51,6 @@ http://bitkananeretvi.net:8000/live.ts?channelId=2889&uid=55734&deviceUser=tomis
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1443
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="eurosport2" tvg-logo="http://54.38.54.93/example/logo/Eurosport%202.png" group-title="Nasi Kanali",EuroSport 2
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1444
-#EXTINF:-1 tvg-id="" tvg-name="eurosport2" tvg-logo="" group-title="Nasi Kanali",EuroSport 2 (REZERVA)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1094
 #EXTINF:-1 tvg-ID="Nova Sport RS/BH FHD" tvg-name="Nova Sport RS/HR/BH FHD" tvg-logo="http://54.38.54.93/example/logo/Nova%20Sport.png" group-title="Nasi Kanali",Nova Sport HD RS
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/29855
 #EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1 RS" tvg-logo="" group-title="Nasi Kanali",Arena Premium 1 FHD RS
@@ -65,8 +62,7 @@ http://clientportal.link:80/W1nmMeA352/P0P1Hu1213/92240
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://54.38.54.93/example/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3182
 #EXTINF:-1 tvg-id="Arena Sport 1 FHD" tvg-name="Arena Sport 1 (Rezerva) FHD" tvg-logo="" group-title="Nasi Kanali",Arena Sport 1 50fps
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4575
+http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/52131
 #EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="arena2.rs" tvg-logo="http://54.38.54.93/example/logo/A2.png" group-title="Nasi Kanali",Arenasport 2 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3183
 #EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="arena3.rs" tvg-logo="http://54.38.54.93/example/logo/A3.png" group-title="Nasi Kanali",Arenasport 3 SRB
@@ -85,10 +81,10 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1440
 http://bitkananeretvi.net:8000/live.ts?channelId=20967&uid=55734&deviceUser=tomislav.prstec77@gmail.com&devicePass=2Eos2yeZak
 #EXTINF:-1 tvg-id="SK2 RS HD" tvg-name="sk2.rs" tvg-logo="http://54.38.54.93/example/logo/SK2HD.png" group-title="Nasi Kanali",Sport Klub 2 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17257
+#EXTINF:-1 tvg-id="SK2 RS HD" tvg-name="sk2.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 2 SRB (rezerva)
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1441
 #EXTINF:-1 tvg-id="SK3 RS HD" tvg-name="sk3.rs" tvg-logo="http://54.38.54.93/example/logo/SK3HD.png" group-title="Nasi Kanali",Sport Klub 3 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17258
-#EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="Nasi Kanali",275. Sport klub 3 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="sk3.rs" tvg-name="sk3.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 3 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1442
 #EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="sk4.rs" tvg-logo="http://54.38.54.93/example/logo/SK4.png" group-title="Nasi Kanali",Sport Klub 4 SRB
@@ -148,13 +144,13 @@ http://bitkananeretvi.net:8000/live.ts?channelId=22889&uid=55734&deviceUser=tomi
 #EXTINF:-1 tvg-id="ARENA_SPORT_6_(HR)" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="Nasi Kanali" ,ARENA SPORT 6 (HR)
 http://protv-nordic.club:8080/sanela123/sanela123/20639
 #EXTINF:-1 tvg-id="ARENA_SPORT_7_(HR)" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 7 (HR)
-http://protv-nordic.club:8080/sanela123/sanela123/73443
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/88712
 #EXTINF:-1 tvg-id="ARENA_SPORT_8_(HR)" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 8 (HR)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23215
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/88713
 #EXTINF:-1 tvg-id="ARENA_SPORT_9_(HR)" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 9 (HR)
-http://protv-nordic.club:8080/sanela123/sanela123/73445
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/88714
 #EXTINF:-1 tvg-id="ARENA_SPORT_10_(HR)" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 10 (HR)
-http://protv-nordic.club:8080/sanela123/sanela123/73446
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/88715
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNE Sport 1 HD" tvg-logo="https://mtel.me/oec/images/tv_channels/d2b87f2656b4d4d7583463f45bab47bc.png" group-title="Nasi Kanali",MNE Sport 1 HD (mtel)
 http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2893
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNE Sport 2 HD" tvg-logo="https://mtel.me/oec/images/tv_channels/f25208a4d5bcaf1af41ec589b7862ab1.png" group-title="Nasi Kanali",MNE Sport 2 HD (mtel)
@@ -208,53 +204,26 @@ http://bitkananeretvi.net:8000/live.ts?channelId=4729&uid=55734&deviceUser=tomis
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandzak TV RS" tvg-logo="http://4.bp.blogspot.com/-zlbXfl1fxL8/VdzUDtH9YnI/AAAAAAAAAaA/oUEFOh4QJb0/s1600/Sand%25C5%25BEak%2Btv.png" group-title="Nasi Kanali",Sandzak TV RS
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13818
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO
-http://telehetz.dvrdns.org:12345/live?channelId=90&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1452
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3923
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="hbo2" tvg-logo="http://54.38.54.93/example/logo/HBO%202%20HD.png" group-title="Nasi Kanali",HBO 2
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17920
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="hbo2" tvg-logo="http://54.38.54.93/example/logo/HBO%202%20HD.png" group-title="Nasi Kanali",HBO 2 SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3924
 #EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="hbo3" tvg-logo="http://54.38.54.93/example/logo/HBO%203%20HD.png" group-title="Nasi Kanali",HBO 3
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17918
-#EXTINF:-1 tvg-id="hbo3" tvg-name="hbo3" tvg-logo="" group-title="Nasi Kanali",HBO 3 SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3925
 #EXTINF:-1 tvg-id="CineStar TV" tvg-name="cinestartv" tvg-logo="http://54.38.54.93/example/logo/CineStar%20TV.png" group-title="Nasi Kanali",CineStar TV SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3934
-#EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="CINESTAR TV HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR TV HD
-http://tv.iptvone.de:8080/testlinija/dejan1/146
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/13794
 #EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinesta" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2 (mtel)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21018
-#EXTINF:-1 tvg-id="cinestartv2.hr" tvg-name="CINESTAR TV 2 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR TV 2 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/595
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/80021
 #EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-name="cinestaraction" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Action%20&%20Thriller.png" group-title="Nasi Kanali",CineStar Action & Thriller SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3933
-#EXTINF:-1 tvg-id="cinestaractionan.rs" tvg-name="CINESTAR ACTION HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR ACTION HD
-http://tv.iptvone.de:8080/testlinija/dejan1/147
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/3180
 #EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-name="cinestarfantasy" tvg-logo="http://54.38.54.93/example/logo/Cinestar%20Fantasy.png" group-title="Nasi Kanali",CineStar Fantasy SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3932
-#EXTINF:-1 tvg-id="cinestarfantasy.rs" tvg-name="CINESTAR FANTASY HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR FANTASY HD
-http://tv.iptvone.de:8080/testlinija/dejan1/148
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/24331
 #EXTINF:-1 tvg-id="CineStar TV Comedy" tvg-name="cinestarcomedy.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Nasi Kanali",CineStar Comedy (mtel)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3544
-#EXTINF:-1 tvg-id="cinsetarcomedy.rs" tvg-name="CINESTAR COMEDY HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-67.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR COMEDY HD
-http://tv.iptvone.de:8080/testlinija/dejan1/5079
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/80022
 #EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="cinestarpremiere1" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Premiere%201%20HD.png" group-title="Nasi Kanali",CineStar Premiere 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3936
-#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="CINESTAR PREMIERE 1 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR PREMIERE 1 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/149
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1468
 #EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="cinestarpremiere2" tvg-logo="http://54.38.54.93/example/logo/CineStar%20Premiere%202%20HD.png" group-title="Nasi Kanali",CineStar Premiere 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3935
-#EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-name="CINESTAR PREMIERE 2 HD" tvg-link="https://epgguide.net/epg/228e134566ecb81049e9062539a535-27.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,CINESTAR PREMIERE 2 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/150
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1469
 #EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-name="cinemax1" tvg-logo="http://54.38.54.93/example/logo/Cinemax%201%20HD.png" group-title="Nasi Kanali",Cinemax 1
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/2022
 #EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="cinemax2" tvg-logo="http://54.38.54.93/example/logo/Cinemax%202%20HD.png" group-title="Nasi Kanali",Cinemax 2
@@ -270,19 +239,13 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13805
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star TV RS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/05/star-tv-.png?resize=219%2C219" group-title="Nasi Kanali",Star TV RS
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28252
 #EXTINF:-1 tvg-id="Fox" tvg-name="foxtv" tvg-logo="http://54.38.54.93/example/logo/FOX.png" group-title="Nasi Kanali",FOX TV 
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3926
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/52133
 #EXTINF:-1 tvg-id="FOX Movies" tvg-name="foxmovies" tvg-logo="http://54.38.54.93/example/logo/FOX%20Movies.png" group-title="Nasi Kanali",Fox Movies
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3939
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1451
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="foxlife" tvg-logo="http://54.38.54.93/example/logo/FOX%20Life.png" group-title="Nasi Kanali",Fox Life
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3928
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1450
 #EXTINF:-1 tvg-id="FOX Crime" tvg-name="foxcrime" tvg-logo="http://54.38.54.93/example/logo/FOX%20Crime.png" group-title="Nasi Kanali",Fox Crime
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3927
-#EXTINF:-1 tvg-id="FOX_CRIME" tvg-name="FOX CRIME" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Nasi Kanali" ,FOX CRIME
-http://tv.iptvone.de:8080/testlinija/dejan1/159
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1449
 #EXTINF:-1 tvg-id="Cinemania" tvg-name="cinemania" tvg-logo="http://54.38.54.93/example/logo/Cinemania.png" group-title="Nasi Kanali",Cinemania
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17270
 #EXTINF:-1 tvg-id="TV 1000" tvg-name="tv1000" tvg-logo="http://54.38.54.93/example/logo/TV%201000.png" group-title="Nasi Kanali",TV 1000
@@ -306,10 +269,9 @@ http://dobrazabava.com:80/darijotess/C2EAMjucnX/5943
 #EXTINF:-1 tvg-id="M1_FAMILY" tvg-name="M1 FAMILY" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/M1_family_logo.png" group-title="Nasi Kanali" ,M1 FAMILY
 http://dobrazabava.com:80/darijotess/C2EAMjucnX/25606
 #EXTINF:-1 tvg-id="Superstar TV" tvg-name="Superstar TV RS" tvg-logo="http://54.38.54.93/example/logo/Supestar.png" group-title="Nasi Kanali",Superstar TV RS
-http://telehetz.dvrdns.org:12345/live?channelId=441&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/27308
 #EXTINF:-1 tvg-id="Epic Drama FHD RS/HR/MK" tvg-name="epicdrama" tvg-link="" tvg-logo="http://54.38.54.93/example/logo/Epic Drama FHD.png" group-title="Nasi Kanali" ,EPIC DRAMA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3943
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/80025
 #EXTINF:-1 tvg-id="DIVA" tvg-name="diva" tvg-logo="http://54.38.54.93/example/logo/DIVA%20TV.png" group-title="Nasi Kanali",Diva
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13770
 #EXTINF:-1 group-title="Nasi Kanali",Nova Cinema
@@ -322,22 +284,16 @@ http://dobrazabava.com:80/darijotess/C2EAMjucnX/44393
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20143
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="discovery" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Channel.png" group-title="Nasi Kanali",Discovery
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1445
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="discovery" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Channel.png" group-title="Nasi Kanali",Discovery HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3906
 #EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="discoverysci" tvg-logo="http://54.38.54.93/example/logo/Discovery%20Science.png" group-title="Nasi Kanali",Discovery Science
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2931
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/80023
 #EXTINF:-1 tvg-id="discoverysci" tvg-name="discoverysci" group-title="Nasi Kanali",Discovery Science
-http://tv.iptvone.de:8080/testlinija/dejan1/189
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/72672
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="natgeors" tvg-logo="http://54.38.54.93/example/logo/National%20Geographic%20HD.png" group-title="Nasi Kanali",National Geographic SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28070
 #EXTINF:-1 tvg-id="natgeors" tvg-name="natgeors" tvg-logo="" group-title="Nasi Kanali",National Geographic SRB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3912
-#EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo" tvg-logo="" group-title="Nasi Kanali",National Geographic 
-http://tv.iptvone.de:8080/testlinija/dejan1/184
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1472
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="davinci" tvg-logo="http://54.38.54.93/example/logo/Da%20Vinci%20TV.png" group-title="Nasi Kanali",DaVinchi Learning.
-http://tv.iptvone.de:8080/testlinija/dejan1/191
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/17272
 #EXTINF:-1 tvg-id="Viasat Explore" tvg-name="viasatexp" tvg-logo="http://54.38.54.93/example/logo/Viasat%20Explore.png" group-title="Nasi Kanali",Viasat Explore
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28071
 #EXTINF:-1 tvg-id="Viasat Nature" tvg-name="viasatnat" tvg-logo="http://54.38.54.93/example/logo/Viasat%20Nature.png" group-title="Nasi Kanali",Viasat Nautre
@@ -347,25 +303,17 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/19006
 #EXTINF:-1 tvg-id="Crime & Investigation" tvg-name="crimeinvestigation" ttvg-logo="http://54.38.54.93/example/logo/Crime%20&%20Investigation.png" group-title="Nasi Kanali",CrimeInvestigation
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3191
 #EXTINF:-1 tvg-id="History Channel" tvg-name="history" tvg-logo="http://54.38.54.93/example/logo/History%20Channel%20HD.png" group-title="Nasi Kanali",History
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3908
+http://cloudcdn.city:80/Priveetje/e4Tsn03682/1454
 #EXTINF:-1 tvg-id="H2" tvg-name="history2" tvg-logo="http://54.38.54.93/example/logo/H2.png" group-title="Nasi Kanali",History 2
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/22972
-#EXTINF:-1 tvg-id="HISTORY_2." tvg-name="HISTORY 2." tvg-logo="/noicon.png" group-title="Nasi Kanali" ,HISTORY 2.
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3909
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="animalplanet" tvg-logo="http://54.38.54.93/example/logo/Animal%20Planet.png" group-title="Nasi Kanali",Animal Planet
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/27035
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="bbcearth" tvg-logo="http://54.38.54.93/example/logo/BBC%20Earth%20FHD.png" group-title="Nasi Kanali",BBC Earth
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28388
 #EXTINF:-1 tvg-id="BBC_EARTH" tvg-name="BBC EARTH" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,BBC EARTH backup
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28398
-#EXTINF:-1 tvg-id="BBC_EARTH" tvg-name="BBC EARTH" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,BBC EARTH
-http://client.nodomain.vip:80/live.ts?channelId=1430&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
 #EXTINF:-1 tvg-id="Pink Pedia" tvg-name="pinkpedia" tvg-logo="http://54.38.54.93/example/logo/Pink%20Pedia.png" group-title="Nasi Kanali",Pink Pedia
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13753
-#EXTINF:-1 tvg-id="Outdoor Channel FHD" tvg-name="outdoor" tvg-link="" tvg-logo="http://54.38.54.93/example/logo/Outdoor%20Channel.png"  group-title="Nasi Kanali" ,Outdoor Channel HD (mtel)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15280
 #EXTINF:-1 tvg-id="E! FHD" tvg-name="eenterntainment" tvg-logo="http://54.38.54.93/example/logo/E!%20FHD.png" group-title="Nasi Kanali",E!
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1467
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="natgeowild" tvg-logo="http://54.38.54.93/example/logo/Nat%20Geo%20Wild.png" group-title="Nasi Kanali",Nat Geo Wild
@@ -392,32 +340,6 @@ http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2999
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3196
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="travel" tvg-logo="http://54.38.54.93/example/logo/Travel%20Channel.png" group-title="Nasi Kanali",Travel Channel
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17865
-#EXTINF:-1 tvg-id="" tvg-name="DOKU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKZyiyhF89wkEK1AX7G-BWVZjszi2l8JswdCYB1d5DXjXjZGtl" group-title="Nasi Kanali" ,DOKU TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1101
-#EXTINF:-1 tvg-id="DOKU_.TV" tvg-name="DOKU .TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,DOKU .TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21440
-#EXTINF:-1 tvg-id="" tvg-name="DR. FIT HD" tvg-logo="https://i2.wp.com/hunterdonpilates.com/wp-content/uploads/2016/09/dr-fit-logo.jpg?fit=330%2C250" group-title="Nasi Kanali" ,DR. FIT HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20289
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/tlc.png?resize=219%2C219" group-title="Nasi Kanali" ,TLC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/242
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2015/03/e_entertainment.jpg" group-title="Nasi Kanali" ,E!
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2892
-#EXTINF:-1 tvg-id="LIFE_AND_HOLIDAY" tvg-name="LIFE AND HOLIDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSp1fWsNeXBL1pO7x4CE4MQp8AZ7YUbr5eUr9j2TyiuuFztdEOu" group-title="Nasi Kanali" ,LIFE AND HOLIDAY
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20272
-#EXTINF:-1 tvg-id="FISHING_and_HUNTING" tvg-name="FISHING and HUNTING" tvg-logo="https://i.pinimg.com/originals/ef/f1/b5/eff1b51cb1ff994707f66a475aaa195c.png" group-title="Nasi Kanali" ,FISHING and HUNTING
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2997
-#EXTINF:-1 tvg-id="XOBI_TV" tvg-name="XOBI TV" tvg-logo="https://lh3.googleusercontent.com/proxy/nntSHWHD61cRxKZblZYDNSIFW8ghEnRheWvK21fTiDz0lCYY27BpT-AwqD61TaLFEPpRYCm1Jqt-zxbvKIybmJ43Ohm16Ks_evVIgDM" group-title="Nasi Kanali" ,XOBI TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3456
-#EXTINF:-1 tvg-id="TRAVEL_XP_4K" tvg-name="TRAVEL XP 4K" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQG-V3lTe3PWmg/company-logo_200_200/0?e=2159024400&v=beta&t=SqrgsFVhl5cn25pymVPEmJpQBiS8s4cKxvN4rsz0iBA" group-title="Nasi Kanali" ,TRAVEL XP 4K
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/219
-#EXTINF:-1 tvg-id="FASHION_TV" tvg-name="FASHION TV" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" group-title="Nasi Kanali" ,FASHION TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20953
-#EXTINF:-1 tvg-id="ID_FASHION" tvg-name="ID FASHION" tvg-logo="https://lh3.googleusercontent.com/proxy/JGHy9rvQtSW-8YO26VPkDFAqN_YeS0cW7tBWYZ-kLRQjsbHu3ewlDov1PWVF7xTl067_5wB9rbaYbymA8St3EfqbbsD3XRHyOsVQiA8ut3ltjKoBCcEiSg" group-title="Nasi Kanali" ,ID FASHION
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21437
-#EXTINF:-1 tvg-id="FASHION_BOX" tvg-name="FASHION BOX" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/09/AppLogos250x250-FashionBox.png" group-title="Nasi Kanali" ,FASHION BOX
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20954
-#EXTINF:-1 tvg-id="RTR_PLANETA" tvg-name="RTR PLANETA" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PLANETA.png" group-title="Nasi Kanali" ,RTR PLANETA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21867
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL HR" tvg-logo="http://54.38.54.93/example/logo/RTL.png" group-title="Nasi Kanali",RTL HR
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/1461
 #EXTINF:-1 tvg-id="RTL 2" tvg-name="rtl2" tvg-logo="http://54.38.54.93/example/logo/RTL%202.png" group-title="Nasi Kanali",RTL 2
@@ -522,146 +444,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13810
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13811
 #EXTINF:-1 tvg-id="OTV Valentino" tvg-name="otvvalentino" tvg-logo="http://54.38.54.93/example/logo/OTV%20Valentino.png" group-title="Nasi Kanali",otvvalentino
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3172
-#EXTINF:-1 tvg-id="" tvg-name="D.R.P.O. .  TV  FOLK" tvg-logo="" group-title="Nasi Kanali" ,D.R.P.O. .  TV  FOLK
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3048
-#EXTINF:-1 tvg-id="" tvg-name="D.R.P.O. .  TV  ROMA" tvg-logo="" group-title="Nasi Kanali" ,D.R.P.O. .  TV  ROMA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/570
-#EXTINF:-1 tvg-id="D.R.P.O.S._MAKEDONIJA" tvg-name="D.R.P.O.S. MAKEDONIJA" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,D.R.P.O.S. MAKEDONIJA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/17516
-#EXTINF:-1 tvg-id="AMARI_TV" tvg-name="AMARI TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,AMARI TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21896
-#EXTINF:-1 tvg-id="MTS_CLUB" tvg-name="MTS CLUB" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MTS CLUB
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22273
-#EXTINF:-1 tvg-id="ROMSKA_TV" tvg-name="ROMSKA TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ROMSKA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21598
-#EXTINF:-1 tvg-id="DM_SAT_HD" tvg-name="DM SAT HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/dmsat.png?resize=219%2C219" group-title="Nasi Kanali" ,DM SAT HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22959
-#EXTINF:-1 tvg-id="DM_SAT" tvg-name="DM SAT" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/dmsat.png?resize=219%2C219" group-title="Nasi Kanali" ,DM SAT
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/236
-#EXTINF:-1 tvg-id="IDJ._TV." tvg-name="IDJ. TV." tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/66/IDJTV_logo.png" group-title="Nasi Kanali" ,IDJ. TV.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22960
-#EXTINF:-1 tvg-id="IDJ_TV" tvg-name="IDJ TV" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1385/thumb_idjtv_k.png" group-title="Nasi Kanali" ,IDJ TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2890
-#EXTINF:-1 tvg-id="IDJ_TV_HD" tvg-name="IDJ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/66/IDJTV_logo.png" group-title="Nasi Kanali" ,IDJ TV HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20955
-#EXTINF:-1 tvg-id="KCN_1" tvg-name="KCN 1" tvg-logo="http://uzivo-tv-kanali.weebly.com/uploads/1/3/8/2/13825165/6489447_orig.jpg" group-title="Nasi Kanali" ,KCN 1
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1136
-#EXTINF:-1 tvg-id="KCN_2" tvg-name="KCN 2" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/kcn-music.png" group-title="Nasi Kanali" ,KCN 2
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22994
-#EXTINF:-1 tvg-id="KCN_3" tvg-name="KCN 3" tvg-logo="http://kliktv.rs/channels/kcn_3.png" group-title="Nasi Kanali" ,KCN 3
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1133
-#EXTINF:-1 tvg-id="GRAND" tvg-name="GRAND" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Grand.png" group-title="Nasi Kanali" ,GRAND
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/351
-#EXTINF:-1 tvg-id="GRAND.TV" tvg-name="GRAND.TV" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/6d8f6b72b0cd6705da9e773e07ef86f8-2.png" group-title="Nasi Kanali" ,GRAND.TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22961
-#EXTINF:-1 tvg-id="GRAND_TV" tvg-name="GRAND TV" tvg-logo="https://grand.online/resources/img/grand-tv-logo.png" group-title="Nasi Kanali" ,GRAND TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22997
-#EXTINF:-1 tvg-id="GRAND_2" tvg-name="GRAND 2" tvg-logo="http://www.infel.net.mk/media/images/tv_channels/grand%20tv%202.png" group-title="Nasi Kanali" ,GRAND 2
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/352
-#EXTINF:-1 tvg-id="IMPERIA_TV" tvg-name="IMPERIA TV" tvg-logo="https://imperia.tv/wp-content/uploads/2019/08/Logo-Imperia-325px-300x107.png" group-title="Nasi Kanali" ,IMPERIA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23225
-#EXTINF:-1 tvg-id="MELOS_TV" tvg-name="MELOS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/d/d1/Melos.png" group-title="Nasi Kanali" ,MELOS TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23203
-#EXTINF:-1 tvg-id="SEZAM_TV" tvg-name="SEZAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/b/b8/TVSezam.gif" group-title="Nasi Kanali" ,SEZAM TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/18009
-#EXTINF:-1 tvg-id="NTV_101" tvg-name="NTV 101" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,NTV 101
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21686
-#EXTINF:-1 tvg-id="BN_MUSIC_HD" tvg-name="BN MUSIC HD" tvg-logo="http://freeweb.t-2.net/itak/LOGO/BN_Music.png" group-title="Nasi Kanali" ,BN MUSIC HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20296
-#EXTINF:-1 tvg-id="BN_MUSIC_Hd" tvg-name="BN MUSIC Hd" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,BN MUSIC Hd
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/13122
-#EXTINF:-1 tvg-id="BN_MUSIC" tvg-name="BN MUSIC" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/01/bnmusic.png?resize=219%2C219" group-title="Nasi Kanali" ,BN MUSIC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/235
-#EXTINF:-1 tvg-id="TOXIC_TV_HD" tvg-name="TOXIC TV HD" tvg-logo="https://mts.rs/oec/images/tv_channels/dce614169201f91e3f528398360f4833.jpg" group-title="Nasi Kanali" ,TOXIC TV HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20285
-#EXTINF:-1 tvg-id="TOP_SOUND_HD" tvg-name="TOP SOUND HD" tvg-logo="https://tvtopsound.com/design/webApp/app-icon.png" group-title="Nasi Kanali" ,TOP SOUND HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15496
-#EXTINF:-1 tvg-id="ROMA_MUSIC_SD" tvg-name="ROMA MUSIC SD" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/roma_tv.png" group-title="Nasi Kanali" ,ROMA MUSIC SD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/305
-#EXTINF:-1 tvg-id="ROMA_MUSIC_HD" tvg-name="ROMA MUSIC HD" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/roma_tv.png" group-title="Nasi Kanali" ,ROMA MUSIC HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/306
-#EXTINF:-1 tvg-id="" tvg-name="VALENTINO MUSIC" tvg-logo="https://tvprofil.com/img/kanali-logo/valentino_music_logo.png" group-title="Nasi Kanali" ,VALENTINO MUSIC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/5180
-#EXTINF:-1 tvg-id="" tvg-name="VALENTINO ETNO" tvg-logo="https://tvprofil.com/img/kanali-logo/valentino_etno_logo.png" group-title="Nasi Kanali" ,VALENTINO ETNO
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/5184
-#EXTINF:-1 tvg-id="OTV_VALENTINO" tvg-name="OTV VALENTINO" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBASEhEWFRUQEA8SEBAXEBAWGBcQFRIWFhUVFRUYHSggGBolGxUVIjEhJSkrLi4uFyAzODYtNygtLisBCgoKDg0OGxAQGy0lICYrKy8rKy0tLTErLS0tLi0tLSsrLS0rKy0tLSstLSsrListLS0rLS0rLS0tLS0tLS0tLf/AABEIAIIA5AMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAABwUGAQMEAgj/xABIEAACAQMBBAUGCQoGAQUAAAABAgMABBESBQYhMQcTQVFhFCIjMnGRFVJTgZKhscHRFiQlM0JUcnOCkzQ1YqKy4UMIF2Oz8P/EABsBAQACAwEBAAAAAAAAAAAAAAAFBgIDBAEH/8QAMxEAAgICAAQCCAYCAwEAAAAAAAECAwQRBRIhMRNxFCIjMkFRUpEVM2FigaEGQjSx4ST/2gAMAwEAAhEDEQA/AGnvJvClogyNTt6iD7T4Uvb7b13cHzpzGPiIcDHjXrfucm9cHkoAX2YqKgNVzPzLedxi9IrmfmWubjF6R1RwP8s/0q3rbt8q/wBI1iyBkkESDU7dnh357Kt1vue+PPkAPcBy+ftrmojlWrcd+Zz0RyrVuO/Mq627fKv9I1tWBvlG95q0jdA/KfVXsbpH5T6q61j5h1LHzCriBvlG95rYsDfKN7zVmG6n/wAn1VyX2wZIxkHUBz7OFeyqyorbPXVlRW2Q3VyrxSd1Pgxrv2fvbNCwS5GpOA6wcwO899cymufaUQaNs+Ne0Zk4y0zKjMmpaZfOv1l2VzhUV0wRggqTxHbxFa1vusV3BICBdIBx5x7G7xnA9nZULuM35tA5P/kkjPPiCPNHvFTFvZdVohzkPLJIeHYpDAeI5VPJ7WydT2tnWxZ30aioRVLlTjziOAB7sV568hHUnzlcKD26WYaT7cZ91cV3EXiZhKImaYOrt8VG4Dn7eVetqELJ" group-title="Nasi Kanali" ,OTV VALENTINO
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3494
-#EXTINF:-1 tvg-id="HAYAT_FOLK_HD" tvg-name="HAYAT FOLK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Logo_of_Hayat_Folk_TV.png" group-title="Nasi Kanali" ,HAYAT FOLK HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/532
-#EXTINF:-1 tvg-id="HAYAT_MUSIC" tvg-name="HAYAT MUSIC" tvg-logo="https://epg.serbianforum.org/logo_znaci/Hayat%20Music.png" group-title="Nasi Kanali" ,HAYAT MUSIC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1890
-#EXTINF:-1 tvg-id="HAYAT_FOLK" tvg-name="HAYAT FOLK" tvg-logo="https://epg.serbianforum.org/logo_znaci/Hayat%20Folk.png" group-title="Nasi Kanali" ,HAYAT FOLK
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/556
-#EXTINF:-1 tvg-id="SEVDAH_TV" tvg-name="SEVDAH TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,SEVDAH TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1373
-#EXTINF:-1 tvg-id="GLAS_DRINE" tvg-name="GLAS DRINE" tvg-logo="https://rtvglasdrine.com/app/uploads/2019/02/footer-logo.png" group-title="Nasi Kanali" ,GLAS DRINE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1137
-#EXTINF:-1 tvg-id="TV_SEHARA" tvg-name="TV SEHARA" tvg-logo="https://i.ytimg.com/vi/SlyMBgPsuvo/hqdefault.jpg" group-title="Nasi Kanali" ,TV SEHARA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1089
-#EXTINF:-1 tvg-id="BANOVINA" tvg-name="BANOVINA" tvg-logo="https://www.slusaj-radio.com/medias/thumbnail/86/200-radio-banovina.jpg" group-title="Nasi Kanali" ,BANOVINA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1088
-#EXTINF:-1 tvg-id="YU_PLANET" tvg-name="YU PLANET" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/yu-planet-bec.png?resize=219%2C219" group-title="Nasi Kanali" ,YU PLANET
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/232
-#EXTINF:-1 tvg-id="" tvg-name="VIKOM TV" tvg-logo="https://www.radio-uzivo.com/images/radio-stanica/Vikom-Banja-Luka_200_1.jpg" group-title="Nasi Kanali" ,VIKOM TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1097
-#EXTINF:-1 tvg-id="DUGA_PLUS" tvg-name="DUGA PLUS" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/duga_rs_plus.png" group-title="Nasi Kanali" ,DUGA PLUS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20357
-#EXTINF:-1 tvg-id="DUGA+" tvg-name="DUGA+" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,DUGA+
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/309
-#EXTINF:-1 tvg-id="" tvg-name="BALKANIKA HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/balkanika.png?resize=219%2C219" group-title="Nasi Kanali" ,BALKANIKA HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/289
-#EXTINF:-1 tvg-id="" tvg-name="BALKANIKA TV" tvg-logo="https://www.music2deal.com/external/pics/user/pic8169658614016569049w240.jpg" group-title="Nasi Kanali" ,BALKANIKA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15406
-#EXTINF:-1 tvg-id="PLANETA_TV" tvg-name="PLANETA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/6192/brand.gif?itok=Ok6R6nO7" group-title="Nasi Kanali" ,PLANETA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1378
-#EXTINF:-1 tvg-id="JEKA" tvg-name="JEKA" tvg-logo="https://mts.rs/oec/images/tv_channels/fb086d30fbf6aca97050fccabf184fdd.jpg" group-title="Nasi Kanali" ,JEKA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21898
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Logo_of_CITY_TV.png/200px-Logo_of_CITY_TV.png" group-title="Nasi Kanali" ,CITY TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1379
-#EXTINF:-1 tvg-id="CMC_TV" tvg-name="CMC TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/cmc.png?resize=219%2C219" group-title="Nasi Kanali" ,CMC TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/175
-#EXTINF:-1 tvg-id="JUGOTON_TV" tvg-name="JUGOTON TV" tvg-logo="https://tvprofil.com/img/kanali-logo/jugoton-tv-logo.png" group-title="Nasi Kanali" ,JUGOTON TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/178
-#EXTINF:-1 tvg-id="JUGOTON_TV." tvg-name="JUGOTON TV." tvg-logo="https://mojtv.hr/thumb.ashx?path=/images/f3d04f24-f9ee-4a62-9b0c-451c7ff08943.jpg&w=300&h=130" group-title="Nasi Kanali" ,JUGOTON TV.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22962
-#EXTINF:-1 tvg-id="MTV_HITS_HD" tvg-name="MTV HITS HD" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/7/7b/MTV_Hits_5.png/revision/latest?cb=20140302071401&path-prefix=ru" group-title="Nasi Kanali" ,MTV HITS HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21445
-#EXTINF:-1 tvg-id="MTV_HITS" tvg-name="MTV HITS" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/7/7b/MTV_Hits_5.png/revision/latest?cb=20140302071401&path-prefix=ru" group-title="Nasi Kanali" ,MTV HITS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/356
-#EXTINF:-1 tvg-id="MTV_ADRIA" tvg-name="MTV ADRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/4/4e/Mtv_adria_logo.jpg" group-title="Nasi Kanali" ,MTV ADRIA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/13124
-#EXTINF:-1 tvg-id="MTV_DANCE" tvg-name="MTV DANCE" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png" group-title="Nasi Kanali" ,MTV DANCE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/357
-#EXTINF:-1 tvg-id="MTV_CLUB_HD" tvg-name="MTV CLUB HD" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png" group-title="Nasi Kanali" ,MTV CLUB HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/586
-#EXTINF:-1 tvg-id="MTV_ROCKS" tvg-name="MTV ROCKS" tvg-logo="https://static.wixstatic.com/media/a9ec69_0445b6ba71b845d3b3fc379c18461f2c~mv2.gif" group-title="Nasi Kanali" ,MTV ROCKS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/358
-#EXTINF:-1 tvg-id="MTV_24" tvg-name="MTV 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNhHKq9HaN54YxLOOmsXYQFiJjHopE0wUSAVOnjuN2aKCdUtt&s" group-title="Nasi Kanali" ,MTV 24
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/598
-#EXTINF:-1 tvg-id="MTV_adria" tvg-name="MTV adria" tvg-logo="https://www.punmiris.com/mdimg/dizajneri/o.2508.jpg" group-title="Nasi Kanali" ,MTV adria
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/355
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ntBBkcgsfJaduN8_zamfe28mOr1K1j-Ga1386fR-Dh6feK7u&s" group-title="Nasi Kanali" ,VH1
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/353
-#EXTINF:-1 tvg-id="VH_CLASIC" tvg-name="VH CLASIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8iWbrbusQtKEY9KelerIkMiN2qW5TwVfNgUHjUZF_a1D82bvg&s" group-title="Nasi Kanali" ,VH CLASIC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4719
-#EXTINF:-1 tvg-id="VH1_CLASIC" tvg-name="VH1 CLASIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8iWbrbusQtKEY9KelerIkMiN2qW5TwVfNgUHjUZF_a1D82bvg&s" group-title="Nasi Kanali" ,VH1 CLASIC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/354
-#EXTINF:-1 tvg-id="MCM_TOP_HD" tvg-name="MCM TOP HD" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png" group-title="Nasi Kanali" ,MCM TOP HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21866
-#EXTINF:-1 tvg-id="TRACE_MZIKI_HD" tvg-name="TRACE MZIKI HD" tvg-logo="https://cdn.startimestv.com/static/image/program/c_-1564471517.png" group-title="Nasi Kanali" ,TRACE MZIKI HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20948
-#EXTINF:-1 tvg-id="KRONE__HIT" tvg-name="KRONE  HIT" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/03/Krone-Hit-Charts.jpg" group-title="Nasi Kanali" ,KRONE  HIT
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1292
-#EXTINF:-1 tvg-id="MEZZO_HD" tvg-name="MEZZO HD" tvg-logo="http://ttc.co.il/sites/default/files/imagecache/main_channel_logo/MezzoLiveHD_1.png" group-title="Nasi Kanali" ,MEZZO HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1408
-#EXTINF:-1 tvg-id="C-MUSIC_HD" tvg-name="C-MUSIC HD" tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1496140466/ulmry1vytopk0sdu6uk0.png" group-title="Nasi Kanali" ,C-MUSIC HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/18006
-#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ROCK
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22866
-#EXTINF:-1 tvg-id="ROCK_TV" tvg-name="ROCK TV" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUQExIWFhURFxgVGBcVFRYRGBgVFhUXGhYXFhUYHiggGhooHhYVITEhJSorLi4uGCAzODMsNygtLisBCgoKDg0OGhAQGjIlHyU3Ny0uNzUrNzAwLS4rNzAxMTcuLjc3OCsuLTMtNzEvNystMS0tLS0vNTcrLS0tKy4tLf/AABEIAJEBXAMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcBBQgEAwL/xABSEAABAwIBBgUMDgkEAQUAAAABAAIDBBEFBgcSITFREyJBYZMIFhc1cXJzdIGSs+IUMjQ2U1WRlKGxstHS0xUjQlJUYoLBwyQzQ6LwGCVjhKP/xAAbAQEAAwEBAQEAAAAAAAAAAAAAAwQFAgYBB//EACkRAQACAQMCBAYDAAAAAAAAAAABAgMEETEFEiFhcfAiQVGBobEykdH/2gAMAwEAAhEDEQA/ALxRFi6DKIiAiIgIiICLF0ugyiIgIsXS6DKIiAiLF0GUREBFglZQEREBERAREQEREBERAREQF5q6vihYZJZGxsbte9wY0d1x1KN5w8tYsLh4R1nSyXEUV7aZG0k8jBcXPk2lQDCMhK7GHNrsXnexh40dO3iEN2jUbiJvkLiNpCCR45npwyAlsZkqHD4Ntm+e+1+6LrSHO/Xya6fBZnNOsE8LJcch4kX9ypZBHg2FcSNkLHtFjot4aX+p2t3LynlXxqM59ONTIZXc50GD67/Qo7ZaV5lbxaHUZY3pSdkZ7K2Kt1yYHNbvZ2fSYyvZh+fKk0uDqqWencNR2Shp5/au5f3VtYs6MX7VPIB/K5jvrsvb114XWDg52ssf2aiIFvnG7R8qRmpPEusnTdVjje2Of23uA5U0da3SpqhktgCWg2e0H96M2c3yhbgFVPlBmhp3n2Vhkxpp28Zmi8mInk0XC7mX3gkcy++b/OBP7IOFYo3g6ph0WSEBol3N" group-title="Nasi Kanali" ,ROCK TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23035
-#EXTINF:-1 tvg-id="TOXIc__TV." tvg-name="TOXIc  TV." tvg-logo="http://newcreatip.c-brain.co.kr/wp-content/uploads/2019/03/skbtv_logo.jpg" group-title="Nasi Kanali" ,TOXIc  TV.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/576
 #EXTINF:-1 tvg-id="MTV Europe" tvg-name="mtvadria" tvg-logo="http://54.38.54.93/example/logo/MTV%20Adria.png" group-title="Nasi Kanali",mtvadria
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13813
 #EXTINF:-1 tvg-id="IDJ TV FHD" tvg-name="idjtv" tvg-logo="http://54.38.54.93/example/logo/IDJ.png" group-title="Nasi Kanali",IDJ TV FHD
@@ -692,176 +474,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/6561
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3171
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sehara BA" tvg-logo="" group-title="Nasi Kanali",TV Sehara BA
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/11284
-#EXTINF:-1 tvg-id="" tvg-name="Kurir TV HD" tvg-logo="https://mojasupernova.rs/Picture/765/jpeg/d1169e058d364b46d4bbb6ec6440467fZ2YK7wKXXhU4bqHg-0.jpg" group-title="Nasi Kanali",Kurir TV HD (mtel)
-http://mndreamvspp.for-better.biz:5436/NABnMH87Qv/1m315LpRVh/17101
-#EXTINF:-1 tvg-id="NOVOSADSKA_TV" tvg-name="NOVOSADSKA TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/novosadska-1.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVOSADSKA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/589
-#EXTINF:-1 tvg-id="NOVOSADSKA_TV." tvg-name="NOVOSADSKA TV." tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/novosadska-1.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVOSADSKA TV.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22895
-#EXTINF:-1 tvg-id="BALKAN_TRIP_TV" tvg-name="BALKAN TRIP TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/balkan-trip.png?resize=219%2C219" group-title="Nasi Kanali" ,BALKAN TRIP TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20316
-#EXTINF:-1 tvg-id="NOVI_PAZAR_TV" tvg-name="NOVI PAZAR TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/novipazar.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVI PAZAR TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/3417
-#EXTINF:-1 tvg-id="PALMA_PLUS_TV" tvg-name="PALMA PLUS TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/palmaplus.png?resize=219%2C219" group-title="Nasi Kanali" ,PALMA PLUS TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20533
-#EXTINF:-1 tvg-id="SAGA_TV" tvg-name="SAGA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgCu-SFiUTgq_JFHSqz61NG8ORyS92wWCkA&usqp=CAU" group-title="Nasi Kanali" ,SAGA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23090
-#EXTINF:-1 tvg-id="LESKOVAC_TV" tvg-name="LESKOVAC TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/tv-leskovac.png?resize=219%2C219" group-title="Nasi Kanali" ,LESKOVAC TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1096
-#EXTINF:-1 tvg-id="TV_KRISTAL_HD" tvg-name="TV KRISTAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcz8OBJj4Im_JaLO0ggTxKFae7AkZl2SoFg&usqp=CAU" group-title="Nasi Kanali" ,TV KRISTAL HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23036
-#EXTINF:-1 tvg-id="TV_APATIN" tvg-name="TV APATIN" tvg-logo="https://www.uns.org.rs/sw4i/box/image.jpg?imageId=17777&thumb=1" group-title="Nasi Kanali" ,TV APATIN
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23050
-#EXTINF:-1 tvg-id="RTV_CITY_UB" tvg-name="RTV CITY UB" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/04/rtv-city-ub.png?resize=219%2C219" group-title="Nasi Kanali" ,RTV CITY UB
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/5638
-#EXTINF:-1 tvg-id="TV_VALJEVO_PLUS" tvg-name="TV VALJEVO PLUS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/04/valjevo-plus.png?resize=219%2C219" group-title="Nasi Kanali" ,TV VALJEVO PLUS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22161
-#EXTINF:-1 tvg-id="TV_VUJIC" tvg-name="TV VUJIC" tvg-logo="http://sloga.org.rs/wp-content/uploads/2014/12/tv-vujic.jpg" group-title="Nasi Kanali" ,TV VUJIC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23079
-#EXTINF:-1 tvg-id="TV_GEM" tvg-name="TV GEM" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/03/gemlazarevac.png?resize=219%2C219" group-title="Nasi Kanali" ,TV GEM
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21193
-#EXTINF:-1 tvg-id="TV_MAG" tvg-name="TV MAG" tvg-logo="https://uns.org.rs/sw4i/box/image.jpg?imageId=11624&thumb=1" group-title="Nasi Kanali" ,TV MAG
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4801
-#EXTINF:-1 tvg-id="TV_LOTEL" tvg-name="TV LOTEL" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/04/lotel-tv-loznica.png?resize=219%2C219" group-title="Nasi Kanali" ,TV LOTEL
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22158
-#EXTINF:-1 tvg-id="RTV_SABAC" tvg-name="RTV SABAC" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,RTV SABAC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23074
-#EXTINF:-1 tvg-id="TV_AS_SABAC" tvg-name="TV AS SABAC" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/04/rtv-as-sabac.png?resize=219%2C219" group-title="Nasi Kanali" ,TV AS SABAC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22153
-#EXTINF:-1 tvg-id="RTV_HERC" tvg-name="RTV HERC" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/rtv-herc.png?resize=219%2C219" group-title="Nasi Kanali" ,RTV HERC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22236
-#EXTINF:-1 tvg-id="JEFIMIJA_TV" tvg-name="JEFIMIJA TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/jefimija.png?resize=219%2C219" group-title="Nasi Kanali" ,JEFIMIJA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1134
-#EXTINF:-1 tvg-id="AURORA_TV" tvg-name="AURORA TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/05/aurora-hr.png?resize=219%2C219" group-title="Nasi Kanali" ,AURORA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/344
-#EXTINF:-1 tvg-id="BRAINZ_TV" tvg-name="BRAINZ TV" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQGKVE7YHaxxGQ/company-logo_200_200/0/1545520269062?e=2159024400&v=beta&t=WYOY8aKRvenyVEChGr0kmVI55VpN8ve5uJZAHcqejiE" group-title="Nasi Kanali" ,BRAINZ TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23064
-#EXTINF:-1 tvg-id="TV_HOMOLJE" tvg-name="TV HOMOLJE" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TV HOMOLJE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23077
-#EXTINF:-1 tvg-id="RTK_KRUSEVAC" tvg-name="RTK KRUSEVAC" tvg-logo="https://www.rtk.rs/wp-content/uploads/2016/03/RTK-logo.png" group-title="Nasi Kanali" ,RTK KRUSEVAC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1422
-#EXTINF:-1 tvg-id="PI_PIROT_TV" tvg-name="PI PIROT TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/pi-pirot-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,PI PIROT TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20534
-#EXTINF:-1 tvg-id="DUNAV_TV" tvg-name="DUNAV TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/dunav-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,DUNAV TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/601
-#EXTINF:-1 tvg-id="DUNAV_TV." tvg-name="DUNAV TV." tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/dunav-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,DUNAV TV.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22896
-#EXTINF:-1 tvg-id="AGRO_TV" tvg-name="AGRO TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/agrotv-srbija.png?resize=219%2C219" group-title="Nasi Kanali" ,AGRO TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/600
-#EXTINF:-1 tvg-id="AGRO_TV." tvg-name="AGRO TV." tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/agrotv-srbija.png?resize=219%2C219" group-title="Nasi Kanali" ,AGRO TV.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22897
-#EXTINF:-1 tvg-id="PANON_TV" tvg-name="PANON TV" tvg-logo="https://image.winudf.com/v2/image/Y29tLnNrcmlsc3R1ZGlvLnBhbm5vbnJ0dmxpdmVfaWNvbl9vdzNqaWp5aQ/icon.png?w=170&fakeurl=1" group-title="Nasi Kanali" ,PANON TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23085
-#EXTINF:-1 tvg-id="PRUGA_TV" tvg-name="PRUGA TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,PRUGA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23218
-#EXTINF:-1 tvg-id="NASA_TV." tvg-name="NASA TV." tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/mk-nasa-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,NASA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20535
-#EXTINF:-1 tvg-id="HRAM_TV" tvg-name="HRAM TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/hram-televizija.png?resize=219%2C219" group-title="Nasi Kanali" ,HRAM TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1092
-#EXTINF:-1 tvg-id="NOVI_TV" tvg-name="NOVI TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/novi-tv-novi.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVI TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2886
-#EXTINF:-1 tvg-id="KCN_K" tvg-name="KCN K" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/kcn-k.png?resize=219%2C219" group-title="Nasi Kanali" ,KCN K
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20536
-#EXTINF:-1 tvg-id="KCN_ISTOK" tvg-name="KCN ISTOK" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,KCN ISTOK
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23083
-#EXTINF:-1 tvg-id="KURIR_TV" tvg-name="KURIR TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/kurir-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,KURIR TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21555
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/vtv-tv-.png?resize=219%2C219" group-title="Nasi Kanali" ,VTV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23075
-#EXTINF:-1 tvg-id="ART_TV" tvg-name="ART TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TV_ART_Vizija_logo.png" group-title="Nasi Kanali" ,ART TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23202
-#EXTINF:-1 tvg-id="MIS_TV" tvg-name="MIS TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MIS TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23048
-#EXTINF:-1 tvg-id="TV_DR" tvg-name="TV DR" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-dr.png?resize=219%2C219" group-title="Nasi Kanali" ,TV DR
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21695
-#EXTINF:-1 tvg-id="TV_MOST." tvg-name="TV MOST." tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/05/most-tv-novi-sad.png?resize=219%2C219" group-title="Nasi Kanali" ,TV MOST.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22898
-#EXTINF:-1 tvg-id="TV_RAS" tvg-name="TV RAS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/08/tv-ras.png?resize=219%2C219" group-title="Nasi Kanali" ,TV RAS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21652
-#EXTINF:-1 tvg-id="TV_MARS" tvg-name="TV MARS" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TV MARS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23204
-#EXTINF:-1 tvg-id="TV_SRPSKE_DIJASPORE" tvg-name="TV SRPSKE DIJASPORE" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-srpske-dijaspore.png?resize=219%2C219" group-title="Nasi Kanali" ,TV SRPSKE DIJASPORE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21449
-#EXTINF:-1 tvg-id="TV_STARA_PAZOVA" tvg-name="TV STARA PAZOVA" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/stara-pazova-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,TV STARA PAZOVA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20537
-#EXTINF:-1 tvg-id="TV_BUJANOVAC" tvg-name="TV BUJANOVAC" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/rtv-bujanovac.png?resize=219%2C219" group-title="Nasi Kanali" ,TV BUJANOVAC
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20301
-#EXTINF:-1 tvg-id="TV_BELLE_AMIE" tvg-name="TV BELLE AMIE" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-bell-am.png?resize=219%2C219" group-title="Nasi Kanali" ,TV BELLE AMIE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20302
-#EXTINF:-1 tvg-id="TV_KLADOVO" tvg-name="TV KLADOVO" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/kladovo.png?resize=219%2C219" group-title="Nasi Kanali" ,TV KLADOVO
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20265
-#EXTINF:-1 tvg-id="TV_VITEZEVO" tvg-name="TV VITEZEVO" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/vitezevo.png?resize=219%2C219" group-title="Nasi Kanali" ,TV VITEZEVO
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20361
-#EXTINF:-1 tvg-id="TV_SUBOTICA" tvg-name="TV SUBOTICA" tvg-logo="https://lh3.googleusercontent.com/proxy/Y78BUl7S6saKWNJOVDfLtd-XsaJqsZdo5vtlsjGZyJDgKWdlSS9d1hOgU-jGDbZp4sFcMDOvCJEq43xzBnqkDgMrm8wKwMNy6QcZo7pG0Kw" group-title="Nasi Kanali" ,TV SUBOTICA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23087
-#EXTINF:-1 tvg-id="TV_SREMSKA" tvg-name="TV SREMSKA" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/05/sremska-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,TV SREMSKA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/14004
-#EXTINF:-1 tvg-id="TV_PRESEVO" tvg-name="TV PRESEVO" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-presevo.png?resize=219%2C219" group-title="Nasi Kanali" ,TV PRESEVO
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20299
-#EXTINF:-1 tvg-id="TV_SRPSKA" tvg-name="TV SRPSKA" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/srpska-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,TV SRPSKA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2887
-#EXTINF:-1 tvg-id="TV_DISKOS" tvg-name="TV DISKOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGKgWTcc1U7kJiy19n6dAhXjWfVAHWr8dziA&usqp=CAU" group-title="Nasi Kanali" ,TV DISKOS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22155
-#EXTINF:-1 tvg-id="TV_FOKUS" tvg-name="TV FOKUS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/fokus-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,TV FOKUS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20300
-#EXTINF:-1 tvg-id="TV_DELTA." tvg-name="TV DELTA." tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-delta-.png?resize=219%2C219" group-title="Nasi Kanali" ,TV DELTA.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/14000
-#EXTINF:-1 tvg-id="" tvg-name="TV ISTOK" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/tvistok.png?resize=219%2C219" group-title="Nasi Kanali" ,TV ISTOK
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4803
-#EXTINF:-1 tvg-id="TV_ISTOK_2" tvg-name="TV ISTOK 2" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/istok2.png?resize=219%2C219" group-title="Nasi Kanali" ,TV ISTOK 2
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15506
-#EXTINF:-1 tvg-id="" tvg-name="TV ALDI" tvg-logo="" group-title="Nasi Kanali" ,TV ALDI
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20295
-#EXTINF:-1 tvg-id="TV_4S" tvg-name="TV 4S" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-4s.png?resize=219%2C219" group-title="Nasi Kanali" ,TV 4S
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20284
-#EXTINF:-1 tvg-id="TV_K9" tvg-name="TV K9" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-k9.png?resize=219%2C219" group-title="Nasi Kanali" ,TV K9
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/14001
-#EXTINF:-1 tvg-id="TV_SUMADIJA" tvg-name="TV SUMADIJA" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-k9.png?resize=219%2C219" group-title="Nasi Kanali" ,TV SUMADIJA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/604
-#EXTINF:-1 tvg-id="K23" tvg-name="K23" tvg-logo="http://oneclick.rs/media/16-01-11/img/partneri/k23.png" group-title="Nasi Kanali" ,K23
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23086
-#EXTINF:-1 tvg-id="TV_KANAL_25" tvg-name="TV KANAL 25" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/kanal-25.png?resize=219%2C219" group-title="Nasi Kanali" ,TV KANAL 25
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/14002
-#EXTINF:-1 tvg-id="BALKAN_TV" tvg-name="BALKAN TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/balkan-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,BALKAN TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22154
-#EXTINF:-1 tvg-id="RTV_PLANA" tvg-name="RTV PLANA" tvg-logo="https://lh3.googleusercontent.com/proxy/9tc3hJcetOpBz7pn3JdC13xwZM-PHqvWtK2bx956kSk6iMZ2hY_TMbJ1kq3U2pxM77Cuy0f3OAI_OUVQ_Zq2hTrWPeR5TdaXoptAUI2SFbWK5p1A33QQ" group-title="Nasi Kanali" ,RTV PLANA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/23084
-#EXTINF:-1 tvg-id="RTV_VRANJE" tvg-name="RTV VRANJE" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/rtv-vranje.png?resize=219%2C219" group-title="Nasi Kanali" ,RTV VRANJE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20267
-#EXTINF:-1 tvg-id="TV_VRANJE" tvg-name="TV VRANJE" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/rtv-vranje.png?resize=219%2C219" group-title="Nasi Kanali" ,TV VRANJE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20297
-#EXTINF:-1 tvg-id="RTV_RITAM_VRANJE" tvg-name="RTV RITAM VRANJE" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/rtv-ritam-vranje-.png?resize=219%2C219" group-title="Nasi Kanali" ,TV RITAM VRANJE
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20298
-#EXTINF:-1 tvg-id="TV_VRANJSKA_PLUS" tvg-name="TV VRANJSKA PLUS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/vranjska-plus.png?resize=219%2C219" group-title="Nasi Kanali" ,TV VRANJSKA PLUS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20294
-#EXTINF:-1 tvg-id="TV_MOST_KIM" tvg-name="TV MOST KIM" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/most-kosovo.png?resize=219%2C219" group-title="Nasi Kanali" ,TV MOST
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2231
-#EXTINF:-1 tvg-id="MREZA_MOST_HD" tvg-name="MREZA MOST HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/most-kosovo.png?resize=219%2C219" group-title="Nasi Kanali" ,MREZA MOST HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22150
-#EXTINF:-1 tvg-id="RTV_PODRINJE_(RS)" tvg-name="RTV PODRINJE (RS)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/04/podrinje-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,RTV PODRINJE (RS)
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22152
-#EXTINF:-1 tvg-id="RTV_BAP" tvg-name="RTV BAP" tvg-logo="https://umetnikfotograf.files.wordpress.com/2021/01/tv-bap.png?resize=219%2C219" group-title="Nasi Kanali" ,RTV BAP
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4732
-#EXTINF:-1 tvg-id="" tvg-name="NTV SRB" tvg-logo="https://epg.serbianforum.org/logo_znaci/NTV%20Nis.png" group-title="Nasi Kanali" ,NTV SRB
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/1881
-#EXTINF:-1 tvg-id="MLAVA_TV" tvg-name="MLAVA TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/mlava-tv.png?resize=219%2C219" group-title="Nasi Kanali" ,MLAVA TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22041
-#EXTINF:-1 tvg-id="TESLAVISION_TV" tvg-name="TESLAVISION TV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/teslavizion.png?resize=219%2C219" group-title="Nasi Kanali" ,TESLAVISION TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2929
-#EXTINF:-1 tvg-id="TRAVEL_RS" tvg-name="TRAVEL RS" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TRAVEL RS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2877
-#EXTINF:-1 tvg-id="BNV_TV_SANDZAK" tvg-name="BNV TV SANDZAK" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/01/bnvsandzak.png?resize=219%2C219" group-title="Nasi Kanali" ,BNV TV SANDZAK
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2206
-#EXTINF:-1 tvg-id="SANDZAK_TV_HD" tvg-name="SANDZAK TV HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/sandzak.png?resize=219%2C219" group-title="Nasi Kanali" ,SANDZAK TV HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2228
-#EXTINF:-1 tvg-id="SANDZAK_TV_SD" tvg-name="SANDZAK TV SD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/sandzak.png?resize=219%2C219" group-title="Nasi Kanali" ,SANDZAK TV SD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2229
-#EXTINF:-1 tvg-id="SANDZACKA_RTV_MREZA" tvg-name="SANDZACKA RTV MREZA" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/sandzak.png?resize=219%2C219" group-title="Nasi Kanali" ,SANDZACKA RTV MREZA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2230
-#EXTINF:-1 tvg-id="N1_INFO_HD" tvg-name="N1 INFO HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/n1.png?resize=219%2C219" group-title="Nasi Kanali" ,N1 INFO HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15413
-#EXTINF:-1 tvg-id="N1_INFO_Nasi Kanali" tvg-name="N1 INFO Nasi Kanali" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/n1.png?resize=219%2C219" group-title="Nasi Kanali" ,N1 INFO Nasi Kanali
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/2875
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="http://proxiapp.me/logo/srbija/RTSSvet.png" group-title="Nasi Kanali",RTS Svet 
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/19812
 #EXTINF:-1 tvg-id="rtstrezor" tvg-name="rtstrezor" tvg-logo="http://proxiapp.me/logo/srbija/RTSTrezor.png" group-title="Nasi Kanali",RTS Trezor
@@ -876,8 +488,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28390
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28046
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="https://i2.wp.com/pcpress.rs/wp-content/uploads/2018/08/rts.png?fit=800%2C449&ssl=1" group-title="Nasi Kanali",RTS Poletarac RS
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/29557
-#EXTINF:-1 tvg-id="261" tvg-name="120. Belle Amie" tvg-logo="http://facetv.formea.ba:88/imagess/belleamie.png" group-title="Nasi Kanali",Belle Amie
-http://telehetz.dvrdns.org:12345/live?channelId=261&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Leskovac RS" tvg-logo="https://www.tvl.rs/wp-content/uploads/2019/10/TVL-logo-.png" group-title="Nasi Kanali",TV Leskovac RS
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28068
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Palma Plus RS" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/palma-plus.png" group-title="Nasi Kanali",Palma Plus RS
@@ -888,8 +498,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/11287
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13819
 #EXTINF:-1 tvg-id="fightnetwork" tvg-name="fightnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1024px-Fight_network_logo.svg.png" group-title="Nasi Kanali", Fight Network
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/29556
-#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png" group-title="Nasi Kanali",Fight Channel
-http://mndreamvspp.for-better.biz:5436/NABnMH87Qv/1m315LpRVh/22994
 #EXTINF:-1 tvg-id="HNTV" tvg-name="hntv" tvg-logo="http://54.38.54.93/example/logo/HNTV.png"group-title="Nasi Kanali",HNTV
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13771
 #EXTINF:-1 tvg-id="Face TV" tvg-name="face" tvg-logo="http://54.38.54.93/example/logo/Face%20TV%20HD.png" group-title="Nasi Kanali",Face tv
@@ -1006,9 +614,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/2047
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/13761
 #EXTINF:-1 group-title="Nasi Kanali",Nick Jr. HR
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/17922
-#EXTINF:-1 group-title="Nasi Kanali",Cartoon Network RS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3919
 #EXTINF:-1 group-title="Nasi Kanali",Pikaboo RS
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/24143
 #EXTINF:-1 group-title="Nasi Kanali",Baby TV RS
@@ -1021,51 +626,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/6565
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/6564
 #EXTINF:-1 tvg-id="nickelodeon" tvg-name="nickelodeon" tvg-logo="" group-title="Nasi Kanali",Nickelodeon HR
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/6083
-#EXTINF:-1 group-title="Nasi Kanali",MASA I MEDVJED HR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-#EXTINF:-1 tvg-id="" tvg-name="TOMY AND DZERY" tvg-logo="" group-title="Nasi Kanali",TOMY AND DZERY
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/420562
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3915
-#EXTINF:-1 group-title="Nasi Kanali",RTL Kockica HR
-#EXTINF:-1 tvg-id="TROPIK_TV" tvg-name="TROPIK TV" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,TROPIK TV
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/4931
-#EXTINF:-1 tvg-id="348" tvg-name="HAYATOVCI" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",HAYATOVCI
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/348
-#EXTINF:-1 tvg-id="4347" tvg-name="IDJ KIDS" tvg-logo="data:image/png;base64,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" group-title="Nasi Kanali",IDJ KIDS
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/4347
-#EXTINF:-1 tvg-id="TOON_KIDS" tvg-name="TOON KIDS" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_toon.png" group-title="Nasi Kanali" ,TOON KIDS
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21439
-#EXTINF:-1 tvg-id="JIM_JAM" tvg-name="JIM JAM" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4850/brand.gif?itok=vHUZV24W" group-title="Nasi Kanali" ,JIM JAM
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/363
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3167
-#EXTINF:-1 tvg-id="375" tvg-name="DUCK TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/196.hr.png" group-title="Nasi Kanali",DUCK TV
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/375
-#EXTINF:-1 tvg-id="372" tvg-name="TNT KIDS" tvg-logo="http://epg.netsolutionpro.com/logo-tv/198.hr.png" group-title="Nasi Kanali",TNT KIDS
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/372
-#EXTINF:-1 tvg-id="379" tvg-name="VAVOOM TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/201.hr.png" group-title="Nasi Kanali",VAVOOM TV
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/379
-#EXTINF:-1 tvg-id="" tvg-name="PINK PANTHER 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",PINK PANTHER 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/423784
-#EXTINF:-1 tvg-id="" tvg-name="MASA I MEDO 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",MASA I MEDO 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/420565
-#EXTINF:-1 tvg-id="2" tvg-name="TOM AND JERYY 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",TOM AND JERYY 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/374
-#EXTINF:-1 tvg-id="" tvg-name="KUNG FU PANDA 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",KUNG FU PANDA 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/437939
-#EXTINF:-1 tvg-id="" tvg-name="PČELICA MAJA 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",PČELICA MAJA 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/437940
-#EXTINF:-1 tvg-id="" tvg-name="ŠTRUMPFOVI 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",ŠTRUMPFOVI 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/437941
-#EXTINF:-1 tvg-id="" tvg-name=" LUCKY LUKE 24" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali", LUCKY LUKE 24
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/437942
-#EXTINF:-1 tvg-id="" tvg-name="TIMON I PUMBA 24H" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="Nasi Kanali",TIMON I PUMBA 24H
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/437943
-#EXTINF:-1 tvg-id="353" tvg-name="MASA I MEDO" tvg-logo="data:image/jpeg;base64,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" group-title="Nasi Kanali",MASA I MEDO
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/353
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_KIDS_HD" tvg-name="MAXCRO SELECT KIDS HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15217
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_KIDS_2_HD" tvg-name="MAXCRO SELECT KIDS 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS 2 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15218
 #EXTINF:-1 tvg-id="elta" tvg-name="elta" tvg-logo="" group-title="Nasi Kanali",elta
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/28392
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta 2 BH" tvg-logo="" group-title="Nasi Kanali",Elta 2 BH
@@ -1106,581 +666,6 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/32687
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/19614
 #EXTINF:-1 tvg-id="planet" tvg-name="planet" tvg-logo="" group-title="Nasi Kanali",planet
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/19617
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 1 HD HR,refun
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20146
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 2 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20147
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 3 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20148
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" Max Select 4 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20149
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 5 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20150
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 6 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20151
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 7 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20152
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 8 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20153
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select 9 HD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/20154
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,Max Select Premium FHD HR
-http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/27821
-#EXTINF:-1 tvg-id="CINEMACIOUS_1_HD" tvg-name="CINEMACIOUS 1 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 1 HDbitka
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21675
-#EXTINF:-1 tvg-id="CINEMACIOUS_2_HD" tvg-name="CINEMACIOUS 2 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 2 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21676
-#EXTINF:-1 tvg-id="CINEMACIOUS_3_HD" tvg-name="CINEMACIOUS 3 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 3 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21677
-#EXTINF:-1 tvg-id="CINEMACIOUS_4_HD" tvg-name="CINEMACIOUS 4 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 4 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21678
-#EXTINF:-1 tvg-id="CINEMACIOUS_5_HD" tvg-name="CINEMACIOUS 5 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 5 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21679
-#EXTINF:-1 tvg-id="CINEMACIOUS_6_HD" tvg-name="CINEMACIOUS 6 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 6 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21680
-#EXTINF:-1 tvg-id="CINEMACIOUS_7_HD" tvg-name="CINEMACIOUS 7 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 7 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21681
-#EXTINF:-1 tvg-id="CINEMACIOUS_8_HD" tvg-name="CINEMACIOUS 8 HD" tvg-logo="https://i.imgur.com/GHCCZKK.jpg" group-title="Nasi Kanali" ,CINEMACIOUS 8 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21682
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_1_HD" tvg-name="TOTAL CINEMA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 1 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21683
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_2_HD" tvg-name="TOTAL CINEMA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 2 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21684
-#EXTINF:-1 tvg-id="TOTAL_CINEMA_3_HD" tvg-name="TOTAL CINEMA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Total_TV.gif" group-title="Nasi Kanali" ,TOTAL CINEMA 3 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21685
-#EXTINF:-1 tvg-id="CROMAX Select 1" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 1 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15204
-#EXTINF:-1 tvg-id="CROMAX Select 2" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 2 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15205
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_3_HD" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 3 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15206
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_4_HD" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 4 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15207
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_5_HD" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 5 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15208
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_6_HD" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 6 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15209
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_7_HD" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 7 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15210
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_8_HD" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 8 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15211
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_9_HD" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 9 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15212
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_10_HD" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 10 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15213
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_11_HD" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT 11 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15214
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_KIDS_HD" tvg-name="MAXCRO SELECT KIDS HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15217
-#EXTINF:-1 tvg-id="MAXCRO_SELECT_KIDS_2_HD" tvg-name="MAXCRO SELECT KIDS 2 HD" tvg-logo="https://forum.kajgana.com/data/attachments/207/207945-0a9473930fad6f0657248f7fe8f66b34.jpg" group-title="Nasi Kanali" ,MAXCRO SELECT KIDS 2 HD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/15218
-#EXTINF:-1 tvg-id="GORA_SELECT_1" tvg-name="GORA SELECT 1" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 1sivic
-http://client.nodomain.vip:80/live.ts?channelId=2009&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_2" tvg-name="GORA SELECT 2" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 2
-http://client.nodomain.vip:80/live.ts?channelId=2010&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_3" tvg-name="GORA SELECT 3" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 3
-http://client.nodomain.vip:80/live.ts?channelId=2011&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_4" tvg-name="GORA SELECT 4" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 4
-http://client.nodomain.vip:80/live.ts?channelId=2012&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_5" tvg-name="GORA SELECT 5" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 5
-http://client.nodomain.vip:80/live.ts?channelId=2013&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_6" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 6
-http://client.nodomain.vip:80/live.ts?channelId=2014&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_7" tvg-name="GORA SELECT 7" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 7
-http://client.nodomain.vip:80/live.ts?channelId=2015&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_8" tvg-name="GORA SELECT 8" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 8
-http://client.nodomain.vip:80/live.ts?channelId=2016&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_9" tvg-name="GORA SELECT 9" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 9
-http://client.nodomain.vip:80/live.ts?channelId=2017&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_SELECT_10" tvg-name="GORA SELECT 10" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA SELECT 10
-http://client.nodomain.vip:80/live.ts?channelId=2018&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_PREMIERE_1" tvg-name="GORA PREMIERE 1" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA PREMIERE 1
-http://client.nodomain.vip:80/live.ts?channelId=2019&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="GORA_PREMIERE_2" tvg-name="GORA PREMIERE 2" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,GORA PREMIERE 2
-http://client.nodomain.vip:80/live.ts?channelId=2020&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5naneretvi.netvg-id="nova-plus-family" tvg-name="NOVA FAMILY" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/nova-family.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA FAMILY
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20262
-#EXTINF:-1 tvg-id="nova-plus-family" tvg-name="NOVA FAMILY." tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/nova-family.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA FAMILY.
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22878
-#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="NOVA CINEMA" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/nova-cinema.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA CINEMA
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/20263
-#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="NOVA CINEMA." tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/nova-cinema.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA CINEMA:
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/22879
-#EXTINF:-1 tvg-id="nova-world" tvg-name="NOVA WORLD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/11/novaw.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA WORLD
-http://bitkananeretvi.net:8000/jasmin63tel826@gmail.com/hCbM49SDFE/21759
-#EXTINF:-1 tvg-id="380" tvg-name="431. Cinemacious 1" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 1brank
-http://telehetz.dvrdns.org:12345/live?channelId=380&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="381" tvg-name="432. Cinemacious 2" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 2
-http://telehetz.dvrdns.org:12345/live?channelId=381&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="382" tvg-name="433. Cinemacious 3" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 3
-http://telehetz.dvrdns.org:12345/live?channelId=382&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="383" tvg-name="434. Cinemacious 4" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 4
-http://telehetz.dvrdns.org:12345/live?channelId=383&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="384" tvg-name="435. Cinemacious 5" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 5
-http://telehetz.dvrdns.org:12345/live?channelId=384&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="385" tvg-name="436. Cinemacious 6" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 6
-http://telehetz.dvrdns.org:12345/live?channelId=385&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="386" tvg-name="437. Cinemacious 7" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 7
-http://telehetz.dvrdns.org:12345/live?channelId=386&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="387" tvg-name="438. Cinemacious 8" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="Nasi Kanali",Cinemacious 8
-http://telehetz.dvrdns.org:12345/live?channelId=387&uid=120&deviceUser=Tansel&devicePass=aoL1jSbS
-#EXTINF:-1 tvg-id="ANDRIJA_I_ANDJELKA_24/7" tvg-name="ANDRIJA I ANDJELKA 24/7" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ANDRIJA I ANDJELKA 24/7sivic
-http://client.nodomain.vip:80/live.ts?channelId=1867&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="LUD_ZBUNJEN_NORMALAN_24/7" tvg-name="LUD ZBUNJEN NORMALAN 24/7" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,LUD ZBUNJEN NORMALAN 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1866&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="FILMSKI_MARATON" tvg-name="FILMSKI MARATON" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,FILMSKI MARATON
-http://client.nodomain.vip:80/live.ts?channelId=1870&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 1 HD" tvg-name="MAXCRO SELECT 1 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1248&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 2  HD" tvg-name="MAXCRO SELECT 2 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1249&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 3  HD" tvg-name="MAXCRO SELECT 3 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1250&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 4  HD" tvg-name="MAXCRO SELECT 4 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1251&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 5  HD" tvg-name="MAXCRO SELECT 5 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 5 HD
-http://client.nodomain.vip:80/live.ts?channelId=1252&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 6  HD" tvg-name="MAXCRO SELECT 6 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 6 HD
-http://client.nodomain.vip:80/live.ts?channelId=1253&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 7  HD" tvg-name="MAXCRO SELECT 7 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 7 HD
-http://client.nodomain.vip:80/live.ts?channelId=1254&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 8  HD" tvg-name="MAXCRO SELECT 8 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 8 HD
-http://client.nodomain.vip:80/live.ts?channelId=1255&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 9  HD" tvg-name="MAXCRO SELECT 9 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 9 HD
-http://client.nodomain.vip:80/live.ts?channelId=1256&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 10  HD" tvg-name="MAXCRO SELECT 10 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 10 HD
-http://client.nodomain.vip:80/live.ts?channelId=1257&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="MAXCRO SELECT 11  HD" tvg-name="MAXCRO SELECT 11 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,MAXCRO SELECT 11 HD
-http://client.nodomain.vip:80/live.ts?channelId=1669&uid=51186&deviceUser=sivic&devicePass=SdQnFuNYQ5
-#EXTINF:-1 tvg-id="267" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 1 HDbalkanx
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/267
-#EXTINF:-1 tvg-id="268" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 2 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/268
-#EXTINF:-1 tvg-id="269" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 3 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/269
-#EXTINF:-1 tvg-id="270" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 4 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/270
-#EXTINF:-1 tvg-id="271" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 5 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/271
-#EXTINF:-1 tvg-id="272" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 6 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/272
-#EXTINF:-1 tvg-id="273" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 7 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/273
-#EXTINF:-1 tvg-id="274" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 8 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/274
-#EXTINF:-1 tvg-id="275" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 9 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/275
-#EXTINF:-1 tvg-id="276" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 10 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/276
-#EXTINF:-1 tvg-id="277" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="Nasi Kanali",MAXCRO SELECT 11 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/277
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 12 HD" tvg-logo="" group-title="Nasi Kanali",MAXCRO SELECT 12 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425491
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 13 HD" tvg-logo="" group-title="Nasi Kanali",MAXCRO SELECT 13 HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425492
-#EXTINF:-1 tvg-id="" tvg-name="MAXCRO KINO HD" tvg-logo="" group-title="Nasi Kanali",MAXCRO KINO HD
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425496
-#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA (Test)" tvg-logo="" group-title="Nasi Kanali",NOVA CINEMA (Test)
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/426747
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X PREMIUM 1" tvg-logo="" group-title="Nasi Kanali",BALKAN X PREMIUM 1
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425498
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X PREMIUM 2" tvg-logo="" group-title="Nasi Kanali",BALKAN X PREMIUM 2
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425499
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X SERIJE" tvg-logo="" group-title="Nasi Kanali",BALKAN X SERIJE
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425500
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X CRIME" tvg-logo="" group-title="Nasi Kanali",BALKAN X CRIME
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425501
-#EXTINF:-1 tvg-id="" tvg-name=" BALKAN X ADVENTURE" tvg-logo="" group-title="Nasi Kanali", BALKAN X ADVENTURE
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425502
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X AKCIJA" tvg-logo="" group-title="Nasi Kanali",BALKAN X AKCIJA
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425503
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DRAMA" tvg-logo="" group-title="Nasi Kanali",BALKAN X DRAMA
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425504
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X FILM" tvg-logo="" group-title="Nasi Kanali",BALKAN X FILM
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425505
-#EXTINF:-1 tvg-id="" tvg-name=" BALKAN X WESTERN" tvg-logo="" group-title="Nasi Kanali", BALKAN X WESTERN
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425506
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X HORROR" tvg-logo="" group-title="Nasi Kanali",BALKAN X HORROR
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425507
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X COMEDY" tvg-logo="" group-title="Nasi Kanali",BALKAN X COMEDY
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425508
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X WORLD BEST" tvg-logo="" group-title="Nasi Kanali",BALKAN X WORLD BEST
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425509
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X ROMANSE" tvg-logo="" group-title="Nasi Kanali",BALKAN X ROMANSE
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425510
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN X DOKU" tvg-logo="" group-title="Nasi Kanali",BALKAN X DOKU
-http://89.163.242.83:2082/jasminiptvbaj/yN9FlwdZwi/425511
-#EXTINF:-1 group-title="Nasi Kanali",Nova Premium ᴴᴰ
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/25675
-#EXTINF:-1 group-title="Nasi Kanali",Dobra Cinema
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/12999
-#EXTINF:-1 group-title="Nasi Kanali",Nova Cinema 1 ᴴᴰ 
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/44229
-#EXTINF:-1 group-title="Nasi Kanali",Nova Cinema 2 ᴴᴰ 
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/44230
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 1 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8790
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 2 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8789
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 3 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8788
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 4 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8787
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 5 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8786
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 6 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8785
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 7 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8784
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 8 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8783
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 9 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/8782
-#EXTINF:-1 group-title="Nasi Kanali",CROMAX Select 10 HD
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/19760
-#EXTINF:-1 group-title="Nasi Kanali",TimeOut
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/23028
-#EXTINF:-1 group-title="Nasi Kanali",MAXCRO KINO ᴴᴰ
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/23292
-#EXTINF:-1 group-title="Nasi Kanali",MAXCRO SELECT 11 ᴴᴰ
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/23296
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 1
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33621
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 2
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33622
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 3
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33623
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 4
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33624
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 5
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33625
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 6
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33626
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 7
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33627
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 8
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33628
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 9
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33629
-#EXTINF:-1 group-title="Nasi Kanali",GORA SELECT 10
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33630
-#EXTINF:-1 group-title="Nasi Kanali",GORA PREMIERE 1
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33631
-#EXTINF:-1 group-title="Nasi Kanali",GORA PREMIERE 2
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/33632
-#EXTINF:-1 group-title="Nasi Kanali",Cinemacious 1
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/34529
-#EXTINF:-1 group-title="Nasi Kanali",Cinemacious 2
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/34530
-#EXTINF:-1 group-title="Nasi Kanali",Cinemacious 3
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/34531
-#EXTINF:-1 group-title="Nasi Kanali",Cinemacious 4
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/34532
-#EXTINF:-1 group-title="Nasi Kanali",Cinemacious 5
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/34533
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Info
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32226
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Premium
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32227
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Premium 2
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32228
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Film
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32229
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Kids
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32230
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Kids 2
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32231
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Western
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32232
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Horror
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32233
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Comedy 2
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32234
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky World Best
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32235
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Doku
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32236
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Drama
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32237
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Akcija
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32238
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Thriller
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32239
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Adventure
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32240
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Crime
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32241
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Romance
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32242
-#EXTINF:-1 group-title="Nasi Kanali",Balkan Sky Serija
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/32244
-#EXTINF:-1 group-title="Nasi Kanali",IFilm Balkan
-http://dobrazabava.com:80/darijotess/C2EAMjucnX/44914
-#EXTINF:-1 tvg-id="" tvg-name="▬ beIN Media Group ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="Nasi Kanali",▬ beIN Media Group ▬
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/16504
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Nasi Kanali",beIN SPORTS 1 4K QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/24697
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 1 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22157
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14980
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN SPORTS 1 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14981
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 2 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="Nasi Kanali",beIN SPORTS 2 4K QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/24696
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 2 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22158
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14982
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN SPORTS 2 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14983
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN SPORTS 3 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Nasi Kanali",beIN SPORTS 3 4K QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/24695
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 3 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Nasi Kanali",beIN SPORTS 3 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22159
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 3 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14984
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN SPORTS 3 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14985
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 4 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 4K QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/24694
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 4 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22160
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORTS 4 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14986
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORTS 4 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14987
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="bein SPORTS 5 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Nasi Kanali",bein SPORTS 5 4K QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/24693
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 5 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Nasi Kanali",beIN SPORTS 5 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22161
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORTS 5 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Nasi Kanali",beIN SPORTS 5 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14988
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORTS 5 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Nasi Kanali",beIN SPORTS 5 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14989
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 6 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Nasi Kanali",beIN SPORTS 6 4K QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/24692
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 6 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Nasi Kanali",beIN SPORTS 6 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22162
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORTS 6 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Nasi Kanali",beIN SPORTS 6 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14990
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORTS 6 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Nasi Kanali",beIN SPORTS 6 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14991
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 7 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Nasi Kanali",beIN SPORTS 7 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22163
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 7 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Nasi Kanali",beIN SPORTS 7 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14992
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 7 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Nasi Kanali",beIN SPORTS 7 SD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14993
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport11.jpg" group-title="Nasi Kanali",beIN SPORTS 1 English HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15000
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 2 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="Nasi Kanali",beIN SPORTS 2 English HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15001
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 HD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14977
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/5522
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="beIN SPORTS 2 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14978
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 HD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15637
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 3 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/4477
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 HD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/14979
-#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="beIN SPORTS MAX 4 FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax4.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 4 FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18218
-#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="beIN SPORTS MAX 5 FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax5.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 5 FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18219
-#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="beIN SPORTS MAX 6 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax6.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 6 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18220
-#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="beIN SPORTS MAX 7 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax7.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 7 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18221
-#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="beIN SPORTS MAX 8 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax8.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 8 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18222
-#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="beIN SPORTS MAX 10 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax10.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 10 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18224
-#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="beIN SPORTS MAX 9 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax9.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 9 FHD FR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/18223
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15719
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15943
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/6414
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15722
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Nasi Kanali",beIN SPORTS 1 FHD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/17739
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Nasi Kanali",beIN SPORTS 2 FHD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/17740
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 3 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 FHD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/17741
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 FHD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19038
-#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 1 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15723
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Nasi Kanali",beIN SPORTS HABER HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/17896
-#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="beIN SERIES Drama HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinseriesdrama.jpg" group-title="Nasi Kanali",beIN SERIES Drama HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19660
-#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="beIN SERIES Sci-Fi HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinseriesscifi.jpg" group-title="Nasi Kanali",beIN SERIES Sci-Fi HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19661
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN BOX OFFICE 1 TR" tvg-logo="https://picon-13398.kxcdn.com/beinboxoffice1.jpg" group-title="Nasi Kanali",beIN BOX OFFICE 1 TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12772
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN BOX OFFICE 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinboxoffice2.jpg" group-title="Nasi Kanali",beIN BOX OFFICE 2 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12771
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN BOX OFFICE 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinboxoffice3.jpg" group-title="Nasi Kanali",beIN BOX OFFICE 3 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12770
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN MOVIES Turk TR" tvg-logo="https://picon-13398.kxcdn.com/beinmoviesturk.jpg" group-title="Nasi Kanali",beIN MOVIES Turk TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/16292
-#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="beIN MOVIES Action TR" tvg-logo="https://picon-13398.kxcdn.com/beinmoviesaction.jpg" group-title="Nasi Kanali",beIN MOVIES Action TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12767
-#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="beIN MOVIES Family TR" tvg-logo="https://picon-13398.kxcdn.com/beinmoviesfamily.jpg" group-title="Nasi Kanali",beIN MOVIES Family TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12760
-#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="beIN MOVIES Premier TR" tvg-logo="https://picon-13398.kxcdn.com/beinmoviespremier.jpg" group-title="Nasi Kanali",beIN MOVIES Premier TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12769
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN MOVIES Stars TR" tvg-logo="https://picon-13398.kxcdn.com/beinmoviesstars.jpg" group-title="Nasi Kanali",beIN MOVIES Stars TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12768
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="Nasi Kanali",beIN GURME TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/16293
-#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://picon-13398.kxcdn.com/beiniz.jpg" group-title="Nasi Kanali",beIN İZ TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/16294
-#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="beIN SPORTS 4 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Nasi Kanali",beIN SPORTS 4 HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/9013
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN SPORTS HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Nasi Kanali",beIN SPORTS HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15002
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="beIN MOVIES 1 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmovies1.jpg" group-title="Nasi Kanali",beIN MOVIES 1 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12855
-#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="beIN MOVIES 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmovies2.jpg" group-title="Nasi Kanali",beIN MOVIES 2 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12854
-#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="beIN MOVIES 3 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmovies3.jpg" group-title="Nasi Kanali",beIN MOVIES 3 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12853
-#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="beIN MOVIES 4 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmovies4.jpg" group-title="Nasi Kanali",beIN MOVIES 4 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/12852
-#EXTINF:-1 tvg-id="Baraem.qa" tvg-name="beIN Baraem QA" tvg-logo="https://picon-13398.kxcdn.com/baraem.jpg" group-title="Nasi Kanali",beIN Baraem QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/16445
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="beIN SPORTS News HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsnewsarb.jpg" group-title="Nasi Kanali",beIN SPORTS News HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/17038
-#EXTINF:-1 tvg-id="Drama.qa" tvg-name="beIN Drama HD 1 QA" tvg-logo="https://picon-13398.kxcdn.com/beindrama1.jpg" group-title="Nasi Kanali",beIN Drama HD 1 QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19102
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN AMC Middle East QA" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Nasi Kanali",beIN AMC Middle East QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19156
-#EXTINF:-1 tvg-id="" tvg-name="beIN Animal Planet QA" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="Nasi Kanali",beIN Animal Planet QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19157
-#EXTINF:-1 tvg-id="beJunior.qa" tvg-name="beIN Be Junior QA" tvg-logo="https://picon-13398.kxcdn.com/beinbejunior.jpg" group-title="Nasi Kanali",beIN Be Junior QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19162
-#EXTINF:-1 tvg-id="DMAX.qa" tvg-name="beIN DMAX MENA QA" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Nasi Kanali",beIN DMAX MENA QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19154
-#EXTINF:-1 tvg-id="DreamWorks.qa" tvg-name="beIN DreamWorks Channel QA" tvg-logo="https://picon-13398.kxcdn.com/beindreamworksch.jpg" group-title="Nasi Kanali",beIN DreamWorks Channel QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19159
-#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="beIN Fatafeat HD QA" tvg-logo="https://picon-13398.kxcdn.com/fatafeatarb.jpg" group-title="Nasi Kanali",beIN Fatafeat HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/13713
-#EXTINF:-1 tvg-id="FOXMovies.qa" tvg-name="beIN FOX Movies HD QA" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg" group-title="Nasi Kanali",beIN FOX Movies HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19160
-#EXTINF:-1 tvg-id="Gourmet.qa" tvg-name="beIN GOURMET QA" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="Nasi Kanali",beIN GOURMET QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19161
-#EXTINF:-1 tvg-id="JeemTV.qa" tvg-name="beIN Jeem TV QA" tvg-logo="https://picon-13398.kxcdn.com/jeemtv.jpg" group-title="Nasi Kanali",beIN Jeem TV QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15767
-#EXTINF:-1 tvg-id="OutdoorChannel.qa" tvg-name="beIN Outdoor Channel QA" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannel.jpg" group-title="Nasi Kanali",beIN Outdoor Channel QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19155
-#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="beIN SERIES 1 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinseries.jpg" group-title="Nasi Kanali",beIN SERIES 1 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19151
-#EXTINF:-1 tvg-id="beINSeries2.qa" tvg-name="beIN SERIES 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinseries.jpg" group-title="Nasi Kanali",beIN SERIES 2 HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/15765
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN DTX HD QA" tvg-logo="https://picon-13398.kxcdn.com/beindtxarb.jpg" group-title="Nasi Kanali",beIN DTX HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/26631
-#EXTINF:-1 tvg-id="FoxLife.qa" tvg-name="beIN FOX Life HD QA" tvg-logo="https://picon-13398.kxcdn.com/foxlifearb.jpg" group-title="Nasi Kanali",beIN FOX Life HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/26632
-#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN SPORTS GLOBAL FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsglobal.jpg" group-title="Nasi Kanali",beIN SPORTS GLOBAL FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/21927
-#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN SPORTS GLOBAL HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsglobal.jpg" group-title="Nasi Kanali",beIN SPORTS GLOBAL HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/21926
-#EXTINF:-1 tvg-id="beINMax1.qa" tvg-name="beIN SPORTS MAX 1 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 1 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22164
-#EXTINF:-1 tvg-id="beINMax2.qa" tvg-name="beIN SPORTS MAX 2 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 2 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/22167
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS MAX 3 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax3.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 3 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/27394
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS MAX 4 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax4.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 4 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/27395
-#EXTINF:-1 tvg-id="DLife.qa" tvg-name="beIN DLife HD QA" tvg-logo="https://picon-13398.kxcdn.com/beindlifearb.jpg" group-title="Nasi Kanali",beIN DLife HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19158
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS N HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsportsn.jpg" group-title="Nasi Kanali",beIN SPORTS N HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/23261
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 3 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport13.jpg" group-title="Nasi Kanali",beIN SPORTS 3 English HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/21517
-#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="beIN SERIES Comedy HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinseriescomedy.jpg" group-title="Nasi Kanali",beIN SERIES Comedy HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19659
-#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="beIN SERIES Vice HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinseries.jpg" group-title="Nasi Kanali",beIN SERIES Vice HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/19662
-#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN SPORTS MAX 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 2 HD TR
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/29048
-#EXTINF:-1 tvg-id="beINSportsMax.my" tvg-name="beIN SPORTS MAX MY" tvg-logo="https://picon-13398.kxcdn.com/beinsportsmaxmy.jpg" group-title="Nasi Kanali",beIN SPORTS MAX MY
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/27937
-#EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beIN SPORTS HD MY" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Nasi Kanali",beIN SPORTS HD MY
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/27938
-#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN SPORTS HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Nasi Kanali",beIN SPORTS HD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/29604
-#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="beIN LaLiga HD US" tvg-logo="https://picon-13398.kxcdn.com/laligatv.jpg" group-title="Nasi Kanali",beIN LaLiga HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/32747
-#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="beIN SPORTS 5 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Nasi Kanali",beIN SPORTS 5 HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/32748
-#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="beIN SPORTS 6 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Nasi Kanali",beIN SPORTS 6 HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/32749
-#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="beIN SPORTS 7 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Nasi Kanali",beIN SPORTS 7 HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/32750
-#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORTS 3 HD AU" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Nasi Kanali",beIN SPORTS 3 HD AU
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/33650
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Canada HD CA" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Nasi Kanali",beIN SPORTS Canada HD CA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/51290
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1premium.jpg" group-title="Nasi Kanali",beIN SPORTS Premium 1 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/75533
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2premium.jpg" group-title="Nasi Kanali",beIN SPORTS Premium 2 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/75534
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3premium.jpg" group-title="Nasi Kanali",beIN SPORTS Premium 3 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/75535
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD US" tvg-logo="" group-title="Nasi Kanali",beIN SPORTS 8 HD US
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/81406
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax5.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 5 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/81407
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax6.jpg" group-title="Nasi Kanali",beIN SPORTS MAX 6 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/81408
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 FHD QA" tvg-logo="" group-title="Nasi Kanali",beIN SPORTS XTRA 1 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/88680
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 FHD QA" tvg-logo="" group-title="Nasi Kanali",beIN SPORTS XTRA 2 FHD QA
-http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/88681
-#EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
-http://telehetz.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="109" tvg-name="263. Arena Sport 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="Nasi Kanali",263. Arena Sport 2 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=109&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="110" tvg-name="265. Arena Sport 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport3.png" group-title="Nasi Kanali",265. Arena Sport 3 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=110&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="111" tvg-name="267. Arena Sport 4 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="Nasi Kanali",267. Arena Sport 4 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=111&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="119" tvg-name="271. Sport klub 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="Nasi Kanali",271. Sport klub 1 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5 
-#EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="Nasi Kanali",273. Sport klub 2 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="Nasi Kanali",275. Sport klub 3 FHD sr
-http://telehetz.dvrdns.org:12345/live?channelId=121&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 group-title="Nasi Kanali", SPORT KLUB 6 ᴴᴰ 
-http://tv.iptvone.de:8080/testlinija/dejan1/319
-#EXTINF:-1 group-title="Nasi Kanali", Sport Klub 7 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/320
-#EXTINF:-1 group-title="Nasi Kanali",Sport Klub 8 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/321
-#EXTINF:-1 group-title="Nasi Kanali",Sport Klub 9 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/322
-#EXTINF:-1 group-title="Nasi Kanali",Sport Klub 10 HD
-http://tv.iptvone.de:8080/testlinija/dejan1/323
-#EXTINF:-1 group-title="Nasi Kanali",Arena Sport 10 HD HR
-http://tv.iptvone.de:8080/testlinija/dejan1/3121
-#EXTINF:-1 group-title="Nasi Kanali",Arena Sport 9 HD HR
-http://tv.iptvone.de:8080/testlinija/dejan1/3122
-#EXTINF:-1 group-title="Nasi Kanali",Arena Sport 8 HD HR
-http://tv.iptvone.de:8080/testlinija/dejan1/3123
-#EXTINF:-1 group-title="Nasi Kanali",Arena Sport 7 HD HR
-http://tv.iptvone.de:8080/testlinija/dejan1/3125
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 BiH
 http://85.203.33.88:80/W1nmMeA352/P0P1Hu1213/87961
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD clientp
