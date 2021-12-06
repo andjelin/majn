@@ -57,40 +57,24 @@ http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/29855
 http://clientportal.link:80/W1nmMeA352/P0P1Hu1213/92238
 #EXTINF:-1 tvg-id="ARENA_1_PREMIUM" tvg-name="ARENA 1 PREMIUM" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA 1 PREMIUM
 http://simpsongroups.com:7070/live.ts?channelId=30764&uid=2070&deviceMac=00:1A:79:4F:06:73
-#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="Arena Sport Premium 1 (50fps)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Nasi Kanali",Arena Sport Premium 1 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/235672
 #EXTINF:-1 tvg-id="" tvg-name="Arena Premium 2 RS" tvg-logo="" group-title="Nasi Kanali",Arena Premium 2 FHD RS
 http://clientportal.link:80/W1nmMeA352/P0P1Hu1213/92239
 #EXTINF:-1 tvg-id="ARENA_2_PREMIUM" tvg-name="ARENA 2 PREMIUM" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA 2 PREMIUM
 http://simpsongroups.com:7070/live.ts?channelId=28565&uid=2070&deviceMac=00:1A:79:4F:06:73
-#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="Arena Sport Premium 2 (50fps)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="Nasi Kanali",Arena Sport Premium 2 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/235673
 #EXTINF:-1 tvg-id="" tvg-name=" Arena Premium 3 RS" tvg-logo="" group-title="Nasi Kanali", Arena Premium 3 FHD RS
 http://clientportal.link:80/W1nmMeA352/P0P1Hu1213/92240
 #EXTINF:-1 tvg-id="ARENA_3_PREMIUM" tvg-name="ARENA 3 PREMIUM" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA 3 PREMUIM
 http://simpsongroups.com:7070/live.ts?channelId=28566&uid=2070&deviceMac=00:1A:79:4F:06:73
-#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="Arena Sport Premium 3 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Nasi Kanali",Arena Sport Premium 3 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/235674
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://54.38.54.93/example/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3182
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="Arena Sport 1 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Nasi Kanali",Arena Sport 1 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/97717
 #EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="arena2.rs" tvg-logo="http://54.38.54.93/example/logo/A2.png" group-title="Nasi Kanali",Arenasport 2 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3183
-#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="Arena Sport 2 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Nasi Kanali",Arena Sport 2 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/97718
 #EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="arena3.rs" tvg-logo="http://54.38.54.93/example/logo/A3.png" group-title="Nasi Kanali",Arenasport 3 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3184
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="Arena Sport 3 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Nasi Kanali",Arena Sport 3 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/97719
 #EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="arena4.rs" tvg-logo="http://54.38.54.93/example/logo/A4.png" group-title="Nasi Kanali",Arenasport 4 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3185
-#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="Arena Sport 4 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Nasi Kanali",Arena Sport 4 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/97720
 #EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="arena5.rs" tvg-logo="http://54.38.54.93/example/logo/A5.png" group-title="Nasi Kanali",Arenasport 5 SRB
 http://tv.refundoiptv.iptv.uno:80/W1nmMeA352/P0P1Hu1213/3186
-#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="Arena Sport 5 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="Nasi Kanali",Arena Sport 5 (50fps)
-http://directtv1.xyz:80/GF4u34u23N53G/s7uEb1sLgy/97721
 #EXTINF:-1 tvg-id="ARENA_SPORT_6_SR" tvg-name="ARENA SPORT 6 SR" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 6 SR
 http://simpsongroups.com:7070/live.ts?channelId=30766&uid=2070&deviceMac=00:1A:79:4F:06:73
 #EXTINF:-1 tvg-id="ARENA_SPORT_7_SR" tvg-name="ARENA SPORT 7 SR" tvg-link="" tvg-logo="/noicon.png" group-title="Nasi Kanali" ,ARENA SPORT 7 SR
