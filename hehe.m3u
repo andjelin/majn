@@ -53,6 +53,10 @@ http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/1443
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/1444
 #EXTINF:-1 tvg-ID="Nova Sport RS/BH FHD" tvg-name="Nova Sport RS/HR/BH FHD" tvg-logo="http://54.38.54.93/example/logo/Nova%20Sport.png" group-title="Nasi Kanali",Nova Sport HD RS
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/29855
+#EXTINF:-1 tvg-id="NOVA_SPORT_HD." tvg-name="NOVA SPORT HD." tvg-logo="https://nstatic.net/img/tv/channels/m/nova-sport.png" group-title="Nasi Kanali" ,NOVA SPORT mtel
+http://bitkananeretvi.net:8000/ZeljoDe@gmail.com/F1i2c6pjcA/22998
+#EXTINF:-1 tvg-id="NOVA_SPORT" tvg-name="NOVA SPORT" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/12/novasport.png?resize=219%2C219" group-title="Nasi Kanali" ,NOVA SPORT mts
+http://bitkananeretvi.net:8000/ZeljoDe@gmail.com/F1i2c6pjcA/1063
 #EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1 RS" tvg-logo="" group-title="Nasi Kanali",Arena Premium 1 FHD RS
 http://clientportal.link:80/xXojWnVLSi859/ztftzr5251/92238
 #EXTINF:-1 tvg-id="" tvg-name="Arena Premium 2 RS" tvg-logo="" group-title="Nasi Kanali",Arena Premium 2 FHD RS
@@ -650,12 +654,8 @@ http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/32687
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/19614
 #EXTINF:-1 tvg-id="planet" tvg-name="planet" tvg-logo="" group-title="Nasi Kanali",planet
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/19617
-#EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 BiH
-http://178.217.15.36/ArenaSport1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD clientp
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/52131
-#EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD nordic
-http://46.29.169.15:4001/play/a00g/index.m3u8
 #EXTINF:-1,Train To Busan [Multi-Subs] [2016]
 http://cloudcdn.city:80/movie/xXojWnVLSi859/ztftzr5251/53875.mkv
 #EXTINF:-1,Train to Busan 2 Peninsula [Multi-Subs] [2020]
