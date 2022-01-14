@@ -193,9 +193,16 @@ http://bitkananeretvi.net:8000/live.ts?channelId=4729&uid=55734&deviceUser=tomis
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/13818
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://54.38.54.93/example/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO
 http://cloudcdn.city:80/xXojWnVLSi859/ztftzr5251/1452
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3923
+#EXTINF:-1 tvg-id="HBO_GO" tvg-name="HBO GO" tvg-logo="https://techcrunch.com/wp-content/uploads/2012/06/hbogo.png?w=360" group-title="FILMSKI" ,HBO GO
+http://bitkananeretvi.net:8000/ZeljoDe@gmail.com/F1i2c6pjcA/23039
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000013870000/PORTRAIT/hw7CplH2.png" group-title="FILMSKI" ,HBO HD
+http://bitkananeretvi.net:8000/ZeljoDe@gmail.com/F1i2c6pjcA/21862
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILMSKI" ,HBO 2 HD
+http://bitkananeretvi.net:8000/ZeljoDe@gmail.com/F1i2c6pjcA/17992
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="hbo2" tvg-logo="http://54.38.54.93/example/logo/HBO%202%20HD.png" group-title="Nasi Kanali",HBO 2
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/17920
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Ch-hbo3-hd-330.png" group-title="FILMSKI" ,HBO 3 HD.
+http://bitkananeretvi.net:8000/ZeljoDe@gmail.com/F1i2c6pjcA/22943
 #EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="hbo3" tvg-logo="http://54.38.54.93/example/logo/HBO%203%20HD.png" group-title="Nasi Kanali",HBO 3
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/17918
 #EXTINF:-1 tvg-id="CineStar TV" tvg-name="cinestartv" tvg-logo="http://54.38.54.93/example/logo/CineStar%20TV.png" group-title="Nasi Kanali",CineStar TV SRB
