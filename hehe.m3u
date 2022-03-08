@@ -665,21 +665,15 @@ http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/19614
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/19617
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD clientp
 http://tv.refundoiptv.iptv.uno:80/xXojWnVLSi859/ztftzr5251/52131
-#EXTINF:-1,Arcane S01 E01
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94436.mkv
-#EXTINF:-1,Arcane S01 E02
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94437.mkv
-#EXTINF:-1,Arcane S01 E03
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94438.mkv
-#EXTINF:-1,Arcane S01 E04
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94439.mkv
-#EXTINF:-1,Arcane S01 E05
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94440.mkv
-#EXTINF:-1,Arcane S01 E06
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94441.mkv
-#EXTINF:-1,Arcane S01 E07
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94442.mkv
-#EXTINF:-1,Arcane S01 E08
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94443.mkv
-#EXTINF:-1,Arcane S01 E09
-http://cloudcdn.tk:80/series/Ml6whYoLJa958/CYMLdP458/94444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg" group-title="Series: Other",The Big Bang Theory S03 E01
+http://tv.refundoiptv.iptv.uno:80/series/xXojWnVLSi859/ztftzr5251/41229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jFDwZFm1r91jQLgCNu2LpHOeR0.jpg" group-title="Series: Other",The Big Bang Theory S03 E02
+http://tv.refundoiptv.iptv.uno:80/series/xXojWnVLSi859/ztftzr5251/41230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HmTc86cMT295YCGWqcyqFM7RLw.jpg" group-title="Series: Other",The Big Bang Theory S03 E03
+http://tv.refundoiptv.iptv.uno:80/series/xXojWnVLSi859/ztftzr5251/41231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voUYI2Mu2uX3wORIx78vaZtteDA.jpg" group-title="Series: Other",The Big Bang Theory S03 E04
+http://tv.refundoiptv.iptv.uno:80/series/xXojWnVLSi859/ztftzr5251/41232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wM89iCs6rpjOabOau7yMbSwMGBd.jpg" group-title="Series: Other",The Big Bang Theory S03 E05
+http://tv.refundoiptv.iptv.uno:80/series/xXojWnVLSi859/ztftzr5251/41233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ethrkqDoGEbXtmN48IhN9aIESfa.jpg" group-title="Series: Other",The Big Bang Theory S03 E06
+http://tv.refundoiptv.iptv.uno:80/series/xXojWnVLSi859/ztftzr5251/41234.mkv
