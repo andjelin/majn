@@ -665,3 +665,11 @@ http://tv.refundoiptv.iptv.uno:80/Ml6whYoLJa958/CYMLdP458/19614
 http://tv.refundoiptv.iptv.uno:80/Ml6whYoLJa958/CYMLdP458/19617
 #EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="Nasi Kanali",Arena Sport 1 HD clientp
 http://tv.refundoiptv.iptv.uno:80/Ml6whYoLJa958/CYMLdP458/52131
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="Arena Sport 2 HD RS" tvg-logo="https://4.bp.blogspot.com/-MTdM4t8ybyc/WPVCdj87UoI/AAAAAAAAFPU/BoKVZEh4bzEl-_qTVcwLSl2q-8Daw_wGQCLcB/s1600/arena_sport_rs_2.png" group-title="Nasi Kanali",Arena Sport 2 HD RS
+http://iptvworld.nl:2095/amd1PT4h/tRHJ8Ajy/9724
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="Arena Sport 2 (Backup) RS" tvg-logo="https://4.bp.blogspot.com/-MTdM4t8ybyc/WPVCdj87UoI/AAAAAAAAFPU/BoKVZEh4bzEl-_qTVcwLSl2q-8Daw_wGQCLcB/s1600/arena_sport_rs_2.png" group-title="Nasi Kanali",Arena Sport 2 (Backup) RS
+http://iptvworld.nl:2095/amd1PT4h/tRHJ8Ajy/9723
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="Arena Sport 3 FHD RS" tvg-logo="http://195.154.156.100:88/EXYU.Logo/arena%203.png" group-title="Nasi Kanali",Arena Sport 3 FHD RS
+http://iptvworld.nl:2095/amd1PT4h/tRHJ8Ajy/9722
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="Arena Sport 3 (Backup) RS" tvg-logo="http://195.154.156.100:88/EXYU.Logo/arena%203.png" group-title="Nasi Kanali",Arena Sport 3 (Backup) RS
+http://iptvworld.nl:2095/amd1PT4h/tRHJ8Ajy/9721
