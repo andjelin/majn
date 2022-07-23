@@ -671,6 +671,28 @@ http://live.vipmediagroup.xyz:80/live?channelId=6342&deviceMac=00:1A:79:1D:98:B9
 http://185.180.221.139:8000/live?channelId=1498&deviceMac=00:1A:79:55:ED:06
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport BiH 1 BA" tvg-logo="" group-title="Nasi Kanali",Arena Sport BiH 1 BA
 http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/107272
+#EXTINF:-1 tvg-id="arenaesport.rs" tvg-name="SPORT | Arena ESport (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena_esport_logo.png" group-title="Nasi Kanali",SPORT | Arena ESport (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/239389
+#EXTINF:-1 tvg-id="ArenaFight.rs" tvg-name="SPORT | Arena Fight (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Fight (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/237581
+#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="SPORT | Arena Sport Premium 1 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport Premium 1 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/235672
+#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="SPORT | Arena Sport Premium 2 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport Premium 2 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/235673
+#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="SPORT | Arena Sport Premium 3 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport Premium 3 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/235674
+#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="SPORT | Arena Sport 1x2 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_1x2_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport 1x2 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/239390
+#EXTINF:-1 tvg-id="" tvg-name="SPORT | Arena Sport (BIH)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport (BIH)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/241162
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="SPORT | Arena Sport 1 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport 1 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/97717
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="SPORT | Arena Sport 2 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport 2 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/97718
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="SPORT | Arena Sport 3 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport 3 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/97719
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="SPORT | Arena Sport 4 (SRB)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Nasi Kanali",SPORT | Arena Sport 4 (SRB)
+http://server.queeniptv.com:80/Azsenca@Exch/fQHMRFaBSv6w/97720
 #EXTINF:-1 tvg-id="" tvg-name="Moja TV Sport (Arena) HD BA" tvg-logo="http://195.154.156.100:88/EXYU.Logo/moja-tv-logo.jpeg" group-title="Nasi Kanali",Moja TV Sport (Arena) HD BA
 http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/33812
 #EXTINF:-1 tvg-id="novasport.rs" tvg-name="Nova Sport FHD BA" tvg-logo="http://195.154.156.100:88/logos/nova%20sports.png" group-title="Nasi Kanali",Nova Sport FHD BA
